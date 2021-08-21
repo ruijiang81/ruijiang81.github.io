@@ -1,38 +1,25 @@
 ---
 permalink: /
-title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))"
+title: "About me" #([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Yong Liu](https://iie-liuyong.github.io/) and Researcher Weiping Wang. <br>
-I received my Bachelor's degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College. 
+I am currently a Ph.D. student in the [McCombs School of Business](https://www.mccombs.utexas.edu/), [UT Austin](https://www.utexas.edu/). <br>
+I received my Bachelor's degree in Statistics in [University of Science and Technology of China](https://en.ustc.edu.cn/) and master degree in Statistics in [Univerisity of Michigan](https://umich.edu/).
 
 # Research
-My research interests mainly lie in **efficient large scale machine learning with theoretical guarantee**, but also include kernel methods, semi-supervised learning (SSL) and interpretability of neural networks. <br>
-Indeed, my works focus on **generalization** analysis of those areas and building effective and scalable **optimization** tools for them, to channel theory and algorithms into applications.
+My research interests include human-ai colloboration, cost-effective active learning, counterfactual estimation.
 
 # Publications
-* **Jian Li**, Yong Liu, Weiping Wang. "Automated Spectral Kernel Learning". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
-* **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
-* **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
-* **Jian Li**, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. "Multi-Class Learning: From Theory to Algorithm". Published in Advances in Neural Information Processing Systems 31 ([NeurIPS 2018](https://nips.cc/Conferences/2018)).
-* **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
+* **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, M Lease. [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) (IJCAI 2021)
+* **R Gao**, M Saar-Tsechansky. ["Cost-accuracy aware adaptive labeling for active learning"](https://ojs.aaai.org/index.php/AAAI/article/view/5640). (AAAI 2020)
+* L Han, **R Gao**, M Kim, X Tao, B Liu, D Metaxas. ["Robust Conditional GAN from Uncertainty-Aware Pairwise Comparisons"](https://ojs.aaai.org/index.php/AAAI/article/view/6723). (AAAI 2020)
+* L Han, Y Zou, **R Gao**, L Wang, D Metaxas. ["Unsupervised domain adaptation via calibrating uncertainties"](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Han_Unsupervised_Domain_Adaptation_via_Calibrating_Uncertainties_CVPRW_2019_paper.pdf). (CVPR Workshop 2019)
 
-# Honors and Awards
-* ZhuLiYueHua Scholarship for Excellent Doctoral Student (Top 1\%, RMB &yen; 5,000). <br> Chinese Academy of Sciences (CAS). 2019.
-* [The UCAS Joint PhD Training Program (2&permil;, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf). <br>University of Chinese Academy of Sciences (UCAS). 2019.
-* [CAS Presidential Scholarship (Top 1%, RMB &yen; 5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf). <br> Chinese Academy of Sciences (CAS). 2019.
-* National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000). <br> Ministry of Education of P.R. China. 2019.
-* [National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf). <br> Ministry of Education of P.R. China. 2018.
-* [IIE Presidential Scholarship (Top 10%, RMB &yen; 2,000)](https://lijian.ac.cn/files/awards/2018_iie_presidential_scholarship.pdf).
-  <br> Institute of Information Engineering, CAS. 2018.
-* [Merit Student](https://lijian.ac.cn/files/awards/2018_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2018.
-* [Merit Student](https://lijian.ac.cn/files/awards/2019_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2019.
-* [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2017_laboratory_excellent_student.pdf). <br> Institute of Information Engineering, CAS. 2017.
-* [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2018_laboratory_excellent_student.pdf). <br> Institute of Information Engineering, CAS. 2018.
+
 
 <!---Activity and Service--->
 <!---Experience--->

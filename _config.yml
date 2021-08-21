@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Li"
+title                    : "Ruijiang Gao"
 title_separator          : "-"
-name                     : &name "Jian Li"
-description              : &description "PhD student in Machine Learning. Institute of Information Engineering, CAS"
-url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ruijiang Gao"
+description              : &description "PhD student at McCombs School of Business, UT Austin"
+url                      : https://ruijiang81.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "superlj666/superlj666.github.io"
+repository               : "ruijiang81/ruijiang81.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : ruijianggao
 facebook:
   username               : 
   app_id                 :
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Li"
+  name             : "Ruijiang Gao"
   avatar           : "avatar.png" # "jianli.jpg" #
-  bio              : "PhD student in Machine Learning. Institute of Information Engineering, CAS"
-  location         : "Beijing, China"
+  bio              : "PhD student at McCombs School of Business, UT Austin"
+  location         : "Austin, TX"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
-  email            : "me@lijian.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=iRHyFa4AAAAJ"
+  email            : "ruijiang@utexas.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,19 +91,19 @@ author:
   flickr           :
   # facebook         : "profile.php?id=100008003527316"
   foursquare       :
-  github           : "superlj666"
+  github           : "ruijiang81"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "superlj666"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # https://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "ruijianggao"
   vine             :
   weibo            : # "u/2200292887"
   xing             :

@@ -4,7 +4,7 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[CV [PDF]](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ruijiang81/ruijiang81.github.io/blob/rj_files/files/cv/CV_ruijiang.pdf)
+[CV [PDF]](https://drive.google.com/file/d/1-Bw1XPZnQ_TTLh0JzeP8jJTqYiYoku_f/view?usp=sharing)
 
 # Contact
 Email: ruijiang [at] utexas.edu

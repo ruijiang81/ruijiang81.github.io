@@ -40,7 +40,7 @@ business and technology.
   
 ## Gallaugher, John, Information Systems: A Manager's Guide to Harnessing Technology, v. 8.0, Flatworld Knowledge, Inc., eISBN 978-1-4533-9405-2, available through the following website: 
 
-https://students.flatworldknowledge.com/course/2597873 
+[https://students.flatworldknowledge.com/course/2597873](https://students.flatworldknowledge.com/course/2597873)
  
 Four options to purchase the required book:  
 1. Online Access Only:  $39.95  

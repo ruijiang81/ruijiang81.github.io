@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-MIS 301 - INTRODUCTION TO INFORMATION TECHNOLOGY MANAGEMENT in Spring 2022. 
+Instructor for MIS 301 - INTRODUCTION TO INFORMATION TECHNOLOGY MANAGEMENT - Spring 2022. 
 
 # Course Overview 
 Information technology (IT) has transformed all aspects of 21st century business and everyday 

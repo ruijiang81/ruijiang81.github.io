@@ -13,6 +13,9 @@ I received my Bachelor's degree in Statistics in [University of Science and Tech
 # Research
 My research interests include human-ai colloboration, cost-effective active learning, counterfactual estimation.
 
+# Preprint
+* **R Gao**, H Feng [Identifying Best Fair Intervention](https://arxiv.org/abs/2111.04272)
+
 # Publications
 * **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, M Lease. [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) (IJCAI 2021)
 * **R Gao**, M Saar-Tsechansky. ["Cost-accuracy aware adaptive labeling for active learning"](https://ojs.aaai.org/index.php/AAAI/article/view/5640). (AAAI 2020)

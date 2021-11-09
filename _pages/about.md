@@ -11,7 +11,7 @@ I am currently a Ph.D. student in the [McCombs School of Business](https://www.m
 I received my Bachelor's degree in Statistics in [University of Science and Technology of China](https://en.ustc.edu.cn/) and master degree in Statistics in [Univerisity of Michigan](https://umich.edu/).
 
 # Research
-My research interests include human-ai colloboration, cost-effective active learning, counterfactual estimation.
+My research interests include decision making, human-ai colloboration, cost-effective active learning and counterfactual estimation.
 
 # Preprint
 * **R Gao**, H Feng [Identifying Best Fair Intervention](https://arxiv.org/abs/2111.04272)

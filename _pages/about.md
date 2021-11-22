@@ -13,8 +13,11 @@ I received my Bachelor's degree in Statistics in [University of Science and Tech
 # Research
 My research interests include decision making, human-ai colloboration, cost-effective active learning and counterfactual estimation.
 
-# Preprint
+# Preprint 
+* M Biggs*, R Gao*, W Sun* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933)
 * **R Gao**, H Feng [Identifying Best Fair Intervention](https://arxiv.org/abs/2111.04272)
+
+\* Alphabetical Order
 
 # Publications
 * **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, M Lease. [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) (IJCAI 2021)

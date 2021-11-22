@@ -14,7 +14,7 @@ I received my Bachelor's degree in Statistics in [University of Science and Tech
 My research interests include decision making, human-ai colloboration, cost-effective active learning and counterfactual estimation.
 
 # Preprint 
-* M Biggs*, R Gao*, W Sun* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933)
+* M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933)
 * **R Gao**, H Feng [Identifying Best Fair Intervention](https://arxiv.org/abs/2111.04272)
 
 \* Alphabetical Order

@@ -14,7 +14,7 @@ I received my Bachelor's degree in Statistics in [University of Science and Tech
 My research interests include decision making, human-ai colloboration, cost-effective active learning and counterfactual estimation.
 
 # News 
-* **R Gao**, M Biggs, W Sun, and L Han. Enhancing counterfactual classification performance via selftraining. accepted at AAAI 2022!
+* **R Gao**, M Biggs, W Sun, and L Han. Enhancing counterfactual classification performance via selftraining. Accepted at AAAI 2022!
 
 # Preprint 
 * M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933)

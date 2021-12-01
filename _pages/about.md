@@ -20,7 +20,7 @@ My research interests include decision making, human-ai colloboration, cost-effe
 \* Alphabetical Order
 
 # Publications
-* **R Gao**, M Biggs, W Sun, and L Han. Enhancing counterfactual classification performance via selftraining. (To Appear at AAAI 2022)
+* **R Gao**, M Biggs, W Sun, and L Han. Enhancing counterfactual classification performance via self-training. (To Appear at AAAI 2022)
 * **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, M Lease. [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) (IJCAI 2021)
 * **R Gao**, M Saar-Tsechansky. ["Cost-accuracy aware adaptive labeling for active learning"](https://ojs.aaai.org/index.php/AAAI/article/view/5640). (AAAI 2020)
 * L Han, **R Gao**, M Kim, X Tao, B Liu, D Metaxas. ["Robust Conditional GAN from Uncertainty-Aware Pairwise Comparisons"](https://ojs.aaai.org/index.php/AAAI/article/view/6723). (AAAI 2020)

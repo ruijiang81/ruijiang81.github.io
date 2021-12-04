@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 I am currently a Ph.D. student in the [McCombs School of Business](https://www.mccombs.utexas.edu/), [UT Austin](https://www.utexas.edu/). <br>
-I received my Bachelor's degree in Statistics in [University of Science and Technology of China](https://en.ustc.edu.cn/) and master degree in Statistics in [Univerisity of Michigan](https://umich.edu/).
+I received my bachelor's degree in Statistics at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/) and master degree in Statistics in [Univerisity of Michigan](https://umich.edu/).
+
+# News 
+* Our paper Counterfactual Self-Training is accepted at AAAI, 2022! (Acceptance Rate: 15%)
+* Our paper [AE-StyleGAN](https://arxiv.org/abs/2110.08718) is accepted at WACV, 2022!
+* Our paper [P2GAN](https://arxiv.org/abs/2108.09016) is accepted at ICCV, 2021!
+* Our paper [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) is accepted at IJCAI, 2021! (Acceptance Rate: 13.9%)
 
 # Research
 My research interests include decision making, human-ai colloboration, cost-effective active learning and counterfactual estimation.

@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [McCombs School of Business](https://www.mccombs.utexas.edu/), [UT Austin](https://www.utexas.edu/). <br>
-I received my bachelor's degree in Statistics at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/) and master degree in Statistics in [Univerisity of Michigan](https://umich.edu/).
+I am currently a Ph.D. student at [McCombs School of Business](https://www.mccombs.utexas.edu/), [UT Austin](https://www.utexas.edu/). <br>
+I received my bachelor's degree in Statistics at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/) and master degree in Statistics at [Univerisity of Michigan](https://umich.edu/).
 
 # News 
 * Our paper Counterfactual Self-Training is accepted at AAAI, 2022! (Acceptance Rate: 15%)

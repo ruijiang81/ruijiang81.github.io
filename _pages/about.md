@@ -13,9 +13,9 @@ I received my bachelor's degree in Statistics at [School of the Gifted Young](ht
 # Research
 My research interests include the broad area of robust machine learning, reinforcement learning (the specific area of contextual bandit), active learning and causal inference. Many of my research aim to answer these questions:
 
-1. How to develop algorithms to better utilize human expertise to enhance machine learning systems?
-2. How to assess individual preference or algorithm performance in the presence of missing counterfactuals?
-3. How to build robust models with non-stationary environment?
+1. How to develop algorithms that can better utilize human expertise to enhance machine learning systems or aid human decisions?
+3. How to assess individual preference or algorithm performance in the presence of missing counterfactuals?
+4. How to build robust models with non-stationary environment?
 
 # News 
 * Our paper [Counterfactual Self-Training](https://arxiv.org/abs/2112.04461) is accepted at AAAI, 2022! (Acceptance Rate: 15%)

@@ -48,4 +48,5 @@ Four options to purchase the required book:
 3. Online Access + Color Printed Textbook:  $64.95  
 4. Online Access + eBook Download + Color Printed Textbook:  $84.95 
 
-[Syllabus [PDF]](https://github.com/ruijiang81/ruijiang81.github.io/raw/master/files/teaching/syllabus_MIS301_SP22.pdf)
+[Syllabus [PDF]](https://github.com/ruijiang81/ruijiang81.github.io/raw/master/files/teaching/syllabus_MIS301_ruijiang_SP22.pdf)
+

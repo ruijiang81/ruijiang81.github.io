@@ -13,11 +13,13 @@ I received my bachelor's degree in Statistics at [School of the Gifted Young](ht
 # Research
 My research interests include the broad area of robust machine learning, reinforcement learning (the specific area of contextual bandit), active learning and causal inference. Many of my research aim to answer these questions:
 
-1. How to develop algorithms that can better utilize human expertise to enhance machine learning systems or aid human decisions?
+1. How to develop algorithms that can better utilize human expertise to enhanceRevenue Management and Pricing conference, 2022! machine learning systems or aid human decisions?
 3. How to assess individual preference or algorithm performance in the presence of missing counterfactuals?
 4. How to build robust models with non-stationary environment?
 
 # News 
+* I will be visiting [Harvard University](https://www.hbs.edu/Pages/default.aspx) this summer! 
+* Our paper [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) is accepted as Spotlight presentation at Revenue Management and Pricing conference, 2022!
 * Our paper [Counterfactual Self-Training](https://arxiv.org/abs/2112.04461) is accepted at AAAI, 2022! (Acceptance Rate: 15%)
 * Our paper [AE-StyleGAN](https://arxiv.org/abs/2110.08718) is accepted at WACV, 2022!
 * Our paper [P2GAN](https://arxiv.org/abs/2108.09016) is accepted at ICCV, 2021!

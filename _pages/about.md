@@ -20,6 +20,7 @@ My research interests include the broad area of robust machine learning, reinfor
 # News 
 * I will be visiting [Harvard University](https://www.hbs.edu/Pages/default.aspx) this summer! 
 * Our paper [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) is accepted as Spotlight presentation at Revenue Management and Pricing conference, 2022!
+* I received [UT Austin Graduate School Fellowship](https://gradschool.utexas.edu/finances/fellowships/graduate-school/continuing-fellowships) for 2022-2023! 
 * Our paper [Counterfactual Self-Training](https://arxiv.org/abs/2112.04461) is accepted at AAAI, 2022! (Acceptance Rate: 15%)
 * Our paper [AE-StyleGAN](https://arxiv.org/abs/2110.08718) is accepted at WACV, 2022!
 * Our paper [P2GAN](https://arxiv.org/abs/2108.09016) is accepted at ICCV, 2021!

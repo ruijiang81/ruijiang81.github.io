@@ -18,6 +18,8 @@ My research interests include the broad area of robust machine learning, reinfor
 4. How to build robust models with non-stationary environment?
 
 # News 
+* Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted at [ICML Distribution-Free Uncertainty Quantification](https://sites.google.com/berkeley.edu/dfuq-22/home), 2022!
+* New preprint [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) released!
 * I will be visiting [Harvard University](https://www.hbs.edu/Pages/default.aspx) this summer! 
 * Our paper [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) is accepted as Spotlight presentation at Revenue Management and Pricing conference, 2022!
 * I received [UT Austin Graduate School Fellowship](https://gradschool.utexas.edu/finances/fellowships/graduate-school/continuing-fellowships) for 2022-2023! 
@@ -26,11 +28,12 @@ My research interests include the broad area of robust machine learning, reinfor
 * Our paper [P2GAN](https://arxiv.org/abs/2108.09016) is accepted at ICCV, 2021!
 * Our paper [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) is accepted at IJCAI, 2021! (Acceptance Rate: 13.9%)
 
-# Preprint 
+# Preprint
+* Z Wang*, **R Gao**\*, M Yin\*, M Zhou, D Blei [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584)
 * M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at Management Science)
 * **R Gao**, H Feng [Identifying Best Fair Intervention](https://arxiv.org/abs/2111.04272)
 
-\* Alphabetical Order
+\* Equal Contribution
 
 # Publications
 * **R Gao**, M Biggs, W Sun, and L Han. [Enhancing counterfactual classification performance via self-training](https://arxiv.org/abs/2112.04461) (To Appear at AAAI 2022)

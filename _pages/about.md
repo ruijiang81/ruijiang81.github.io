@@ -18,7 +18,7 @@ My research interests include the broad area of robust machine learning, reinfor
 4. How to build robust models with non-stationary environment?
 
 # News 
-* Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted at [ICML Distribution-Free Uncertainty Quantification](https://sites.google.com/berkeley.edu/dfuq-22/home), 2022!
+* Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted as Spotlight presentation at [ICML Distribution-Free Uncertainty Quantification, 2022](https://sites.google.com/berkeley.edu/dfuq-22/home)!
 * New preprint [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584)!
 * I will be visiting [Harvard University](https://www.hbs.edu/Pages/default.aspx) this summer! 
 * Our paper [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) is accepted as Spotlight presentation at Revenue Management and Pricing conference, 2022!

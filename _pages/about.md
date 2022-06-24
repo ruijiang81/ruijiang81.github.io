@@ -18,8 +18,8 @@ My research interests include the broad area of robust machine learning, reinfor
 4. How to build robust models with non-stationary environment?
 
 # News 
+* Our paper [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) has been selected as a finalist for  PhD Incubator Special Recognition Award at [INFORMS Advances in Decision Analysis Conference](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2022-Advances-in-Decision-Analysis-Conference)!
 * Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted as Spotlight presentation at [ICML Distribution-Free Uncertainty Quantification, 2022](https://sites.google.com/berkeley.edu/dfuq-22/home)!
-* New preprint [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584)!
 * I will be visiting [Harvard University](https://www.hbs.edu/Pages/default.aspx) this summer! 
 * Our paper [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) is accepted as Spotlight presentation at Revenue Management and Pricing conference, 2022!
 * I received [UT Austin Graduate School Fellowship](https://gradschool.utexas.edu/finances/fellowships/graduate-school/continuing-fellowships) for 2022-2023! 
@@ -29,8 +29,8 @@ My research interests include the broad area of robust machine learning, reinfor
 * Our paper [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) is accepted at IJCAI, 2021! (Acceptance Rate: 13.9%)
 
 # Preprint
-* Z Wang*, **R Gao**\*, M Yin\*, M Zhou, D Blei [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584)
-* M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at Management Science)
+* Z Wang*, **R Gao**\*, M Yin\*, M Zhou, D Blei [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) (Under review, spotlight presentation at ICML DFUQ, 2022). 
+* M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at Management Science, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
 * **R Gao**, H Feng [Identifying Best Fair Intervention](https://arxiv.org/abs/2111.04272)
 
 \* Equal Contribution

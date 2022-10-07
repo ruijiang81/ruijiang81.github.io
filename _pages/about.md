@@ -18,7 +18,7 @@ My research interests include the broad area of robust machine learning, reinfor
 4. How to build robust models with non-stationary environment?
 
 # News 
-* Two papers (Active Incentive Learning / Robust Human-AI Collaboration with Bandit Feedback) are accepted at [CIST 2022](https://sites.google.com/view/cist2022/)!
+* Two papers - Active Incentive Learning / Robust Human-AI Collaboration with Bandit Feedback (Best Student Paper Nominee) are accepted at [CIST 2022](https://sites.google.com/view/cist2022/)!
 * Our paper [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) has been selected as a finalist for  PhD Incubator Special Recognition Award at [INFORMS Advances in Decision Analysis Conference](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2022-Advances-in-Decision-Analysis-Conference)!
 * Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted as Spotlight presentation at [ICML Distribution-Free Uncertainty Quantification, 2022](https://sites.google.com/berkeley.edu/dfuq-22/home)!
 * I will be visiting [Harvard University](https://www.hbs.edu/Pages/default.aspx) this summer! 

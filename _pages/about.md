@@ -31,7 +31,7 @@ My research interests include the broad area of robust machine learning, reinfor
 
 # Preprint
 * Z Wang*, **R Gao**\*, M Yin\*, M Zhou, D Blei [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) (Under review, spotlight presentation at ICML DFUQ, 2022). 
-* M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at Management Science, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
+* M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
 * **R Gao**, H Feng [Identifying Best Fair Intervention](https://arxiv.org/abs/2111.04272)
 
 \* Equal Contribution

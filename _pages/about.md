@@ -18,9 +18,9 @@ My research interests include the broad area of robust machine learning, reinfor
 4. How to build robust models with non-stationary environment?
 
 # News 
+* Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted at [AISTATS, 2023](http://aistats.org/aistats2023/) (Preliminary version accepted as Spotlight presentation at [ICML Distribution-Free Uncertainty Quantification, 2022](https://sites.google.com/berkeley.edu/dfuq-22/home))!
 * Two papers - Active Incentive Learning / Robust Human-AI Collaboration with Bandit Feedback (Best Student Paper, 1 out of ~200) are accepted at [CIST 2022](https://sites.google.com/view/cist2022/)!
 * Our paper [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) has been selected as a finalist for  PhD Incubator Special Recognition Award at [INFORMS Advances in Decision Analysis Conference](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2022-Advances-in-Decision-Analysis-Conference)!
-* Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted as Spotlight presentation at [ICML Distribution-Free Uncertainty Quantification, 2022](https://sites.google.com/berkeley.edu/dfuq-22/home)!
 * I will be visiting [Harvard University](https://www.hbs.edu/Pages/default.aspx) this summer! 
 * Our paper [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) is accepted as Spotlight presentation at [Revenue Management and Pricing conference, 2022](https://www.chicagobooth.edu/events/revenue-management-and-pricing)!
 * I received [UT Austin Graduate School Fellowship](https://gradschool.utexas.edu/finances/fellowships/graduate-school/continuing-fellowships) for 2022-2023! 
@@ -29,14 +29,13 @@ My research interests include the broad area of robust machine learning, reinfor
 * Our paper [P2GAN](https://arxiv.org/abs/2108.09016) is accepted at [ICCV, 2021](https://iccv2021.thecvf.com/home)!
 * Our paper [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) is accepted at [IJCAI, 2021](https://ijcai-21.org/)! (Acceptance Rate: 13.9%)
 
-# Preprint
-* Z Wang*, **R Gao**\*, M Yin\*, M Zhou, D Blei [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) (Under review, spotlight presentation at ICML DFUQ, 2022). 
+# Preprint / Under Review 
+* **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. Learning Complementary Policies for Human-AI Teams (Under review, previous name: Robust Human-AI Collaboration with Bandit Feedback, Best Student Paper at CIST, 2022)
 * M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
 * **R Gao**, H Feng [Identifying Best Fair Intervention](https://arxiv.org/abs/2111.04272)
 
-\* Equal Contribution
-
 # Publications
+* Z Wang*, **R Gao**\*, M Yin\*, M Zhou, D Blei [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) (AISTATS 2023, preliminary version accepted as spotlight presentation at ICML DFUQ, 2022). 
 * **R Gao**, M Biggs, W Sun, and L Han. [Enhancing counterfactual classification performance via self-training](https://arxiv.org/abs/2112.04461) (AAAI 2022)
 * **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, M Lease. [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) (IJCAI 2021)
 * **R Gao**, M Saar-Tsechansky. [Cost-accuracy aware adaptive labeling for active learning](https://ojs.aaai.org/index.php/AAAI/article/view/5640). (AAAI 2020)
@@ -44,11 +43,12 @@ My research interests include the broad area of robust machine learning, reinfor
 * L Han, Y Zou, **R Gao**, L Wang, D Metaxas. [Unsupervised domain adaptation via calibrating uncertainties](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Han_Unsupervised_Domain_Adaptation_via_Calibrating_Uncertainties_CVPRW_2019_paper.pdf). (CVPR Workshop 2019)
 * L Han, MR Min, A Stathopoulos, Y Tian, **R Gao**, A Kadav, D Metaxas. [Dual Projection Generative Adversarial Networks for Conditional Image Generation](https://arxiv.org/abs/2108.09016). (ICCV 2021)
 
-# Working Paper 
+\* Equal Contribution
 
+# Working Paper 
 Manuscript will be shared upon request.
 * **R Gao**, M Saar-Tsechansky. Active Incentive Learning (Preliminary version accepted at CIST, 2022)
-* **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. Robust Human-AI Collaboration with Bandit Feedback (Best Student Paper at CIST, 2022)
+* **R Gao**, H Lakkaraju. Long-Term Impact of Algorithmic Recourse on Social Segregation
 
 <!---Activity and Service--->
 <!---Experience--->

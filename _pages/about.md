@@ -51,7 +51,7 @@ Manuscript will be shared upon request.
 * **R Gao**, H Lakkaraju. Long-Term Impact of Algorithmic Recourse on Social Segregation
 
 # Professional Service
-Program Commitee Member and Reviewer for AISTATS 2023, AAAI 2023, WITS 2022, CIST 2022, WACV 2022, INFORMS Data Science Workshop, ICML workshops on Adversarial Machine Learning Frontiers, ML for Data. 
+Program Commitee Member and Reviewer for FAccT 2023, AISTATS 2023, AAAI 2023, WITS 2022, CIST 2022, WACV 2022, INFORMS Data Science Workshop, ICML workshops on Adversarial Machine Learning Frontiers, ML for Data, Human-Machine Collaboration and Teaming.. 
 
 <!---Activity and Service--->
 <!---Experience--->

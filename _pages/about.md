@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am currently a PhD candidate at [McCombs School of Business](https://www.mccombs.utexas.edu/), [UT Austin](https://www.utexas.edu/). <br>
-I received my bachelor's degree in Statistics at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/) and master degree in Statistics at [Univerisity of Michigan](https://umich.edu/).
+I received my bachelor's degree in Statistics at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/) and master degree in Statistics at [Univerisity of Michigan](https://umich.edu/). Ex-Intern at [HBS](https://www.hbs.edu/), [IBM Research](https://research.ibm.com), [Tencent](https://www.tencent.com/en-us/), and [Amazon](https://www.amazon.com).
 
 # Research
 My research interests include the broad area of robust machine learning, reinforcement learning (the specific area of contextual bandit), active learning and causal inference. Many of my research aim to answer these questions:

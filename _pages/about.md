@@ -38,7 +38,7 @@ My research interests include the broad area of robust machine learning, reinfor
 
 # Selected Publications
 * **R Gao**, H Lakkaraju. On the Impact of Algorithmic Recourse on Social Segregation (ICML, 2023)
-* Z Wang*, **R Gao**\*, M Yin\*, M Zhou, D Blei [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) (AISTATS 2023, preliminary version accepted as spotlight presentation at ICML DFUQ, 2022). 
+* Z Wang*, **R Gao**\*, M Yin\*, M Zhou, D Blei. [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) (AISTATS 2023, preliminary version accepted as spotlight presentation at ICML DFUQ, 2022)
 * **R Gao**, M Biggs, W Sun, and L Han. [Enhancing counterfactual classification performance via self-training](https://arxiv.org/abs/2112.04461) (AAAI 2022)
 * **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, M Lease. [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) (IJCAI 2021)
 * **R Gao**, M Saar-Tsechansky. [Cost-accuracy aware adaptive labeling for active learning](https://ojs.aaai.org/index.php/AAAI/article/view/5640). (AAAI 2020)
@@ -51,10 +51,11 @@ My research interests include the broad area of robust machine learning, reinfor
 # Working Paper 
 Manuscript will be shared upon request.
 * **R Gao**, M Saar-Tsechansky. Active Incentive Learning (Preliminary version accepted at CIST, 2022)
-
+* **R Gao**, M Yin. Confounding-Robust Policy Improvement with Human-AI Teams (Under Review)
+* J Cao*, **R Gao**\*, E Keyvanshokooh\*, Contextual Recourse Bandits: Optimizing Decisions through Counterfactual Explanations (Under Review)
 
 # Professional Service
-Program Commitee Member and Reviewer for ICIS 2023, NeurIPS 2023, FAccT 2023, AISTATS 2023, AAAI 2023, WITS 2022, CIST 2022, WACV 2022, INFORMS Data Science Workshop, ICML workshops on Generative AI + Law, Adversarial Machine Learning Frontiers, ML for Data, Human-Machine Collaboration and Teaming.. 
+Program Commitee Member and Reviewer for WITS 2023, ICIS 2023, NeurIPS 2023, FAccT 2023, AISTATS 2023, AAAI 2023, WITS 2022, CIST 2022, WACV 2022, INFORMS Data Science Workshop, ICML workshops on Interactive Learning from Human Feedback, Generative AI + Law, Adversarial Machine Learning Frontiers, ML for Data, Human-Machine Collaboration and Teaming.. 
 
 <!---Activity and Service--->
 <!---Experience--->

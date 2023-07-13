@@ -19,7 +19,7 @@ My research interests include the broad area of robust machine learning, reinfor
 4. How to build robust models with non-stationary environment?
 
 # News 
-* Our paper On the Impact of Algorithmic Recourse on Social Segregation (preprint coming out soon) is accepted at ICML, 2023!
+* Our paper [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) is accepted at [ICML, 2023](https://icml.cc/Conferences/2023/Dates)!
 * I will join [Netflix](https://www.netflix.com) as a machine learning research intern this summer! 
 * Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted at [AISTATS, 2023](http://aistats.org/aistats2023/) (Preliminary version accepted as Spotlight presentation at [ICML Distribution-Free Uncertainty Quantification, 2022](https://sites.google.com/berkeley.edu/dfuq-22/home))!
 * Two papers - Active Incentive Learning / [Robust Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2302.02944) (Best Student Paper, 1 out of ~200) are accepted at [CIST 2022](https://sites.google.com/view/cist2022/)!
@@ -32,7 +32,7 @@ My research interests include the broad area of robust machine learning, reinfor
 * Our paper [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) is accepted at [IJCAI, 2021](https://ijcai-21.org/)! (Acceptance Rate: 13.9%)
 
 # Preprint / Under Review 
-* **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. [Learning Complementary Policies for Human-AI Teams](https://arxiv.org/abs/2302.02944) (Under review at Management Science, previous title: Robust Human-AI Collaboration with Bandit Feedback, Best Student Paper at CIST, 2022)
+* **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. [Learning Complementary Policies for Human-AI Teams](https://arxiv.org/abs/2302.02944) (Under review at Management Science, previous title: Robust Human-AI Collaboration with Bandit Feedback, **Best Student Paper** at CIST, 2022)
 * M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at Operation Research, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
 * **R Gao**, H Feng [Identifying Best Fair Intervention](https://arxiv.org/abs/2111.04272)
 
@@ -55,7 +55,7 @@ Manuscript will be shared upon request.
 * J Cao*, **R Gao**\*, E Keyvanshokooh\*, Contextual Recourse Bandits: Optimizing Decisions through Counterfactual Explanations (Under Review)
 
 # Professional Service
-Program Commitee Member and Reviewer for WITS 2023, ICIS 2023, NeurIPS 2023, FAccT 2023, AISTATS 2023, AAAI 2023, WITS 2022, CIST 2022, WACV 2022, INFORMS Data Science Workshop, ICML workshops on Interactive Learning from Human Feedback, Generative AI + Law, Adversarial Machine Learning Frontiers, ML for Data, Human-Machine Collaboration and Teaming.. 
+Program Commitee Member and Reviewer for WITS 2023, ICIS 2023, NeurIPS 2023, FAccT 2023, AISTATS 2023, AAAI 2023/2024, WITS 2022, CIST 2022, WACV 2022, INFORMS Data Science Workshop, ICML workshops on Interactive Learning from Human Feedback, Generative AI + Law, Adversarial Machine Learning Frontiers, ML for Data, Human-Machine Collaboration and Teaming.. 
 
 <!---Activity and Service--->
 <!---Experience--->

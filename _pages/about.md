@@ -37,7 +37,7 @@ My research interests include the broad area of robust machine learning, reinfor
 * **R Gao**, H Feng [Identifying Best Fair Intervention](https://arxiv.org/abs/2111.04272)
 
 # Selected Publications
-* **R Gao**, H Lakkaraju. On the Impact of Algorithmic Recourse on Social Segregation (ICML, 2023)
+* **R Gao**, H Lakkaraju. [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) (ICML, 2023)
 * Z Wang*, **R Gao**\*, M Yin\*, M Zhou, D Blei. [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) (AISTATS 2023, preliminary version accepted as spotlight presentation at ICML DFUQ, 2022)
 * **R Gao**, M Biggs, W Sun, and L Han. [Enhancing counterfactual classification performance via self-training](https://arxiv.org/abs/2112.04461) (AAAI 2022)
 * **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, M Lease. [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) (IJCAI 2021)

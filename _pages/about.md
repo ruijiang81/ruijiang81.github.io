@@ -19,6 +19,7 @@ My research interests include the broad area of robust machine learning, reinfor
 4. How to build robust models with non-stationary environment?
 
 # News 
+* Our paper Contextual Recourse Bandits is accepted at CIST 2023!
 * Our paper [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) is accepted at [ICML, 2023](https://icml.cc/Conferences/2023/Dates)!
 * I will join [Netflix](https://www.netflix.com) as a machine learning research intern this summer! 
 * Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted at [AISTATS, 2023](http://aistats.org/aistats2023/) (Preliminary version accepted as Spotlight presentation at [ICML Distribution-Free Uncertainty Quantification, 2022](https://sites.google.com/berkeley.edu/dfuq-22/home))!
@@ -53,6 +54,13 @@ Manuscript will be shared upon request.
 * **R Gao**, M Saar-Tsechansky. Active Incentive Learning (Preliminary version accepted at CIST, 2022)
 * **R Gao**, M Yin. Confounding-Robust Policy Improvement with Human-AI Teams (Under Review)
 * J Cao*, **R Gao**\*, E Keyvanshokooh\*, Contextual Recourse Bandits: Optimizing Decisions through Counterfactual Explanations (Under Review)
+
+# Awards and Fellowships 
+* Best Student Paper Award at [CIST 2022](https://sites.google.com/view/cist2022/).
+* PhD Incubator Special Recognition Award at [INFORMS Advances in Decision Analysis Conference](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2022-Advances-in-Decision-Analysis-Conference).
+* UT Austin Continuing Fellowship.
+* UT Austin Graduate School (OGS) Professional Development Award, Good Systems Student Conference Grant.
+* UT Austin Graduate School (OGS) Provost Fellowship.
 
 # Professional Service
 Program Commitee Member and Reviewer for WITS 2023, ICIS 2023, NeurIPS 2023, FAccT 2023, AISTATS 2023, AAAI 2023/2024, WITS 2022, CIST 2022, WACV 2022, INFORMS Data Science Workshop, ICML workshops on Interactive Learning from Human Feedback, Generative AI + Law, Adversarial Machine Learning Frontiers, ML for Data, Human-Machine Collaboration and Teaming.. 

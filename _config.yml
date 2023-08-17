@@ -215,7 +215,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: posts
     values:
       layout: single
       author_profile: true

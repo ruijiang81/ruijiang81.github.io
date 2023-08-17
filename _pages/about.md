@@ -52,6 +52,9 @@ Manuscript will be shared upon request.
 * **R Gao**, M Yin. Confounding-Robust Policy Improvement with Human-AI Teams 
 * J Cao*, **R Gao**\*, E Keyvanshokooh\*, Contextual Recourse Bandits: Optimizing Decisions through Counterfactual Explanations (Preliminary version accepted at CIST, 2023)
 
+# Patent 
+* **R Gao**, W Sun, M Biggs, M Ettl, Y Drissi. [Counterfactual self-training](https://patents.google.com/patent/US20230045950A1/en) US Patent App. 17/402,367.
+
 \* Equal Contribution
 
 # Awards and Fellowships 

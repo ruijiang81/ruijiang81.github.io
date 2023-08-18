@@ -48,9 +48,9 @@ My research interests include the broad area of robust machine learning, reinfor
 
 # Working Journal Papers
 Manuscript will be shared upon request.
-* **R Gao**, M Saar-Tsechansky. Active Incentive Learning (Preliminary version accepted at CIST, 2022)
-* **R Gao**, M Yin. Confounding-Robust Policy Improvement with Human-AI Teams 
-* J Cao*, **R Gao**\*, E Keyvanshokooh\*, Contextual Recourse Bandits: Optimizing Decisions through Counterfactual Explanations (Preliminary version accepted at CIST, 2023)
+* **R Gao**, M Saar-Tsechansky. Active Incentive Learning (Preliminary version accepted at CIST, 2022) [[Abstract]](https://ruijiang81.github.io/publications/ail)
+* **R Gao**, M Yin. Confounding-Robust Policy Improvement with Human-AI Teams (Preliminary version accepted at INFORMS Data Science Workshop, 2023) [[Abstract]](https://ruijiang81.github.io/publications/confoundhai)
+* J Cao*, **R Gao**\*, E Keyvanshokooh\*, Contextual Recourse Bandits: Optimizing Decisions through Counterfactual Explanations (Preliminary version accepted at CIST, 2023) [[Abstract]](https://ruijiang81.github.io/publications/recoursebandit)
 
 # Patent 
 * **R Gao**, W Sun, M Biggs, M Ettl, Y Drissi. [Counterfactual self-training](https://patents.google.com/patent/US20230045950A1/en) US Patent App. 17/402,367.

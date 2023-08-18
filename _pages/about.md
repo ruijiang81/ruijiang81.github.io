@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a PhD candidate at [McCombs School of Business](https://www.mccombs.utexas.edu/), [UT Austin](https://www.utexas.edu/). <br>
 I received my bachelor's degree in Statistics at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/) and master's degree in Statistics at [Univerisity of Michigan](https://umich.edu/). <br>
-Ex-Intern at [HBS](https://www.hbs.edu/), [IBM Research](https://research.ibm.com), [Tencent](https://www.tencent.com/en-us/), and [Amazon](https://www.amazon.com).
+Ex-Intern at [Netflix Research](https://research.netflix.com/), [HBS](https://www.hbs.edu/), [IBM Research](https://research.ibm.com), [Tencent](https://www.tencent.com/en-us/), and [Amazon](https://www.amazon.com).
 
 # Research
 My research interests include the broad area of robust machine learning, reinforcement learning (the specific area of contextual bandit), active learning and causal inference. Many of my research aim to answer these questions:
@@ -19,7 +19,7 @@ My research interests include the broad area of robust machine learning, reinfor
 3. How to design better human-AI systems and comprehend their sociotechnical implications?
 
 # News 
-* Our paper Contextual Recourse Bandits is accepted at CIST 2023!
+* Two papers - Contextual Recourse Bandits and Confounding-Robust Policy Improvement with Human-AI Teams are accepted at [CIST, 2023](https://sites.google.com/view/cist2023/home) and [INFORMS Data Science Workshop, 2023](https://meetings.informs.org/wordpress/phoenix2023/data-science-workshop/), respectively!
 * Our paper [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) is accepted at [ICML, 2023](https://icml.cc/Conferences/2023/Dates)!
 * I will join [Netflix](https://www.netflix.com) as a machine learning research intern this summer! 
 * Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted at [AISTATS, 2023](http://aistats.org/aistats2023/) (Preliminary version accepted as Spotlight presentation at [ICML Distribution-Free Uncertainty Quantification, 2022](https://sites.google.com/berkeley.edu/dfuq-22/home))!

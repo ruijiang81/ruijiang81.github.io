@@ -1,4 +1,4 @@
-  ---
+---
 title: "Confounding-Robust Policy Improvement with Human-AI Teams"
 permalink: /publications/confoundhai
 author_profile: true

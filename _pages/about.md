@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD candidate at [McCombs School of Business](https://www.mccombs.utexas.edu/), [UT Austin](https://www.utexas.edu/). <br>
+I am currently a PhD candidate at [McCombs School of Business](https://www.mccombs.utexas.edu/), [UT Austin](https://www.utexas.edu/) advised by [Maytal Saar-Tsechansky](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/maytal-saar-tsechansky/). <br>
 I received my bachelor's degree in Statistics at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/) and master's degree in Statistics at [Univerisity of Michigan](https://umich.edu/). <br>
-Ex-Intern at [Netflix Research](https://research.netflix.com/), [HBS](https://www.hbs.edu/), [IBM Research](https://research.ibm.com), [Tencent](https://www.tencent.com/en-us/), and [Amazon](https://www.amazon.com).
+Ex-Intern at [Netflix Research](https://research.netflix.com/) (advised by [James Mclnerney](https://jamesmc.com/) and [Nathan Kallus](https://nathankallus.com/)), [HBS](https://www.hbs.edu/) (advised by [Himabindu Lakkaraju](https://himalakkaraju.github.io/)), [IBM Research](https://research.ibm.com) (advised by [Wei Sun](https://researcher.watson.ibm.com/researcher/view.php?person=us-sunw), [Max Biggs](https://maxbiggs91.github.io/mbiggs.github.io/index.html), and [Markus Ettl](https://scholar.google.com/citations?user=wfFaZFkAAAAJ&hl=en)), [Tencent](https://www.tencent.com/en-us/), and [Amazon](https://www.amazon.com).
 
 # Research
 My research interests include the broad area of robust machine learning, reinforcement learning (the specific area of contextual bandit), active learning, AI ethics and causal inference. Many of my research aim to answer these questions:

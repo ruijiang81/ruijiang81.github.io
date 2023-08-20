@@ -59,14 +59,15 @@ Manuscript will be shared upon request.
 \* Equal Contribution
 
 # Awards and Fellowships 
-* Best Student Paper Award at [CIST 2022](https://sites.google.com/view/cist2022/).
+* Best Student Paper Award at [CIST 2022](https://sites.google.com/view/cist2022/) (1 out of ~200).
 * PhD Incubator Special Recognition Award at [INFORMS Advances in Decision Analysis Conference](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2022-Advances-in-Decision-Analysis-Conference).
-* UT Austin Continuing Fellowship.
+* INFORMS Data Science Workshop Scholarship 2022, 2023. 
+* UT Austin Continuing Fellowship 2022-2023 (competitive fellowship, one nomination per department).
 * UT Austin Graduate School (OGS) Professional Development Award, Good Systems Student Conference Grant.
 * UT Austin Graduate School (OGS) Provost Fellowship.
 
 # Professional Service
-Program Commitee Member and Reviewer for WITS 2023, ICIS 2023, NeurIPS 2023, FAccT 2023, AISTATS 2023, AAAI 2023/2024, WITS 2022, CIST 2022, WACV 2022, INFORMS Data Science Workshop, ICML workshops on Interactive Learning from Human Feedback, Generative AI + Law, Adversarial Machine Learning Frontiers, ML for Data, Human-Machine Collaboration and Teaming.. 
+Program Committee Member and Reviewer for WITS 2023, ICIS 2023, NeurIPS 2023, FAccT 2023, AISTATS 2023, AAAI 2023/2024, WITS 2022, CIST 2022, WACV 2022, INFORMS Data Science Workshop, ICML workshops on Interactive Learning from Human Feedback, Generative AI + Law, Adversarial Machine Learning Frontiers, ML for Data, Human-Machine Collaboration and Teaming.. 
 
 <!---Activity and Service--->
 <!---Experience--->

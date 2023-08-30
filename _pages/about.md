@@ -34,8 +34,8 @@ My research interests include the broad area of robust machine learning, reinfor
 * Our paper [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) is accepted at [IJCAI, 2021](https://ijcai-21.org/)! (Acceptance Rate: 13.9%)
 
 # Under Review at Journals
-* **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. [Learning Complementary Policies for Human-AI Teams](https://arxiv.org/abs/2302.02944) (Under review at Management Science, previous title: Robust Human-AI Collaboration with Bandit Feedback, **Best Student Paper** at CIST, 2022)
-* M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at Operation Research, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
+* **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. [Learning Complementary Policies for Human-AI Teams](https://arxiv.org/abs/2302.02944) (Under review at **Management Science - Reject and Resubmit**, previous title: Robust Human-AI Collaboration with Bandit Feedback, **Best Student Paper** at CIST, 2022)
+* M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at **Operation Research**, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
 
 # Selected Publications at ML/AI Conferences 
 * **R Gao**, H Lakkaraju. [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) (ICML, 2023)

@@ -55,7 +55,8 @@ Manuscript will be shared upon request.
 
 # Patent 
 * **R Gao**, W Sun, M Biggs, M Ettl, Y Drissi. [Counterfactual self-training](https://patents.google.com/patent/US20230045950A1/en) US Patent App. 17/402,367.
-
+* **R Gao**, W Sun, M Biggs, Y Drissi, M Ettl. [Imputing Counterfactual Data to Facilitate Machine Learning Model Training](https://www.freepatentsonline.com/y2023/0289620.html) US Patent App. 17/654,617
+ 
 \* Equal Contribution
 
 # Awards and Fellowships 

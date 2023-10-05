@@ -1,3 +1,11 @@
+---
+title: "Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design"
+permalink: /publications/gsurvey
+author_profile: true
+---
+
+## Abstract
+
 Designing products to meet consumers’ preferences is essential for a business’s success.
 We propose Gradient-based Survey (GBS), a discrete choice experiment for multiattribute
 product design. The experiment elicits consumer preferences through a sequence of paired

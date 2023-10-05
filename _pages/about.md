@@ -52,11 +52,11 @@ Manuscript will be shared upon request.
 * **R Gao**, M Saar-Tsechansky. Active Incentive Learning (Preliminary version accepted at CIST, 2022). [[Abstract]](https://ruijiang81.github.io/publications/ail)
 * **R Gao**, M Yin. Confounding-Robust Policy Improvement with Human-AI Teams (Preliminary version accepted at INFORMS Data Science Workshop, 2023). [[Abstract]](https://ruijiang81.github.io/publications/confoundhai)
 * J Cao*, **R Gao**\*, E Keyvanshokooh\*. Contextual Recourse Bandits: Optimizing Decisions through Counterfactual Explanations (Preliminary version accepted at CIST, 2023). [[Abstract]](https://ruijiang81.github.io/publications/recoursebandit)
-* M Yin, **R Gao**, W Lin, S Shugan. Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design (Preliminary version under review). [[https://ruijiang81.github.io/publications/gsurvey]]
+* M Yin, **R Gao**, W Lin, S Shugan. Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design (Preliminary version under review). [[Abstract]](https://ruijiang81.github.io/publications/gsurvey)
 
 # Patent 
-* **R Gao**, W Sun, M Biggs, M Ettl, Y Drissi. [Counterfactual self-training](https://patents.google.com/patent/US20230045950A1/en) US Patent App. 17/402,367.
-* **R Gao**, W Sun, M Biggs, Y Drissi, M Ettl. [Imputing Counterfactual Data to Facilitate Machine Learning Model Training](https://www.freepatentsonline.com/y2023/0289620.html) US Patent App. 17/654,617
+* **R Gao**, W Sun, M Biggs, M Ettl, Y Drissi. [Counterfactual Self-Training](https://patents.google.com/patent/US20230045950A1/en) US Patent App. 17/402,367.
+* **R Gao**, W Sun, M Biggs, Y Drissi, M Ettl. [Imputing Counterfactual Data to Facilitate Machine Learning Model Training](https://www.freepatentsonline.com/y2023/0289620.html) US Patent App. 17/654,617.
  
 \* Equal Contribution
 

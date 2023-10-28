@@ -20,6 +20,7 @@ My research interests include the broad area of robust machine learning, reinfor
 3. How to design better human-AI systems and comprehend their sociotechnical implications?
 
 # News 
+* Our paper [G-Survey](https://arxiv.org/abs/2310.12026) is accepted at [RealML @ NeurIPS, 2023](https://realworldml.github.io/neurips2023/)!
 * Two papers - Contextual Recourse Bandits and Confounding-Robust Policy Improvement with Human-AI Teams are accepted at [CIST, 2023](https://sites.google.com/view/cist2023/home) and [INFORMS Data Science Workshop, 2023](https://meetings.informs.org/wordpress/phoenix2023/data-science-workshop/), respectively!
 * Our paper [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) is accepted at [ICML, 2023](https://icml.cc/Conferences/2023/Dates)!
 * I will join [Netflix](https://www.netflix.com) as a machine learning research intern this summer! 

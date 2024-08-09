@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruijiang Gao"
 title_separator          : "-"
 name                     : &name "Ruijiang Gao"
-description              : &description "PhD Candidate at McCombs School of Business, UT Austin"
+description              : &description "Assistant Professor at Naveen Jindal School of Management, UT Dallas"
 url                      : https://ruijiang81.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruijiang81/ruijiang81.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Ruijiang Gao"
   avatar           : "ruijiang_austin1.jpg"
-  bio              : "PhD candidate at McCombs School of Business, UT Austin"
-  location         : "Austin, TX"
+  bio              : "Assistant Professor at Naveen Jindal School of Management, UT Dallas"
+  location         : "Dallas, TX"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=iRHyFa4AAAAJ"
-  email            : "ruijiang@utexas.edu"
+  email            : "ruijiang.gao@utdallas.edu"
   uri              : 
   bitbucket        :
   codepen          :

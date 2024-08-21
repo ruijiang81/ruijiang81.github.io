@@ -13,15 +13,15 @@ I received my master's degree in Statistics from [Univerisity of Michigan](https
 [Netflix Research](https://research.netflix.com/) (advised by [James Mclnerney](https://jamesmc.com/) and [Nathan Kallus](https://nathankallus.com/)), [HBS](https://www.hbs.edu/) (advised by [Himabindu Lakkaraju](https://himalakkaraju.github.io/)), [IBM Research](https://research.ibm.com) (advised by [Wei Sun](https://researcher.watson.ibm.com/researcher/view.php?person=us-sunw), [Max Biggs](https://maxbiggs91.github.io/mbiggs.github.io/index.html), and [Markus Ettl](https://scholar.google.com/citations?user=wfFaZFkAAAAJ&hl=en)), [Tencent](https://www.tencent.com/en-us/), and [Amazon](https://www.amazon.com).
 
 # Research
-My research interests include the broad area of <b>Human-Centered Machine Learning</b>. More specifically, I focus on improving ML algorithms for
-Human-AI Systems, Active Learning/Experimental Design, Explainable AI, Causal ML/RL, and Generative AI. Many of my research aim to answer these questions:
+My research is centered around <b>Human-Centered Machine Learning</b>. Specifically, I aim to enhance ML/AI algorithms in areas such as 
+Human-AI Systems, Active Learning, Causal ML/RL, GenAI/LLM, and Explainable AI. Many of my research aim to answer these questions:
 
 1. How to develop algorithms that can better utilize human expertise to enhance machine learning systems? [1,6,7,8,11,12,13,14]
 2. How to design better human-AI systems and comprehend their sociotechnical implications? [1,3,6,12,13]
 3. How to assess individual preference or algorithm performance in the presence of missing counterfactuals? [2,5,12,13,15,16]
 4. How to improve the interpretability, fairness, and accountability of ML models? [3,4,9,13]
 
-# News 
+# Recent News 
 * I started my position as an assistant professor at [UT Dallas Naveen Jindal School of Management](https://jindal.utdallas.edu/) (with a courtesy appointment in CS)!
 * Our paper [Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design](https://arxiv.org/abs/2310.12026) is accepted at [RealML @ NeurIPS, 2023](https://realworldml.github.io/neurips2023/)!
 * Two papers - Contextual Recourse Bandits and Confounding-Robust Policy Improvement with Human-AI Teams are accepted at [CIST, 2023](https://sites.google.com/view/cist2023/home) and [INFORMS Data Science Workshop, 2023](https://meetings.informs.org/wordpress/phoenix2023/data-science-workshop/), respectively!

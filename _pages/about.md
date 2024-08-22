@@ -22,7 +22,6 @@ Human-AI Systems, Active Learning, Causal ML/RL, GenAI/LLM, and Explainable AI. 
 4. How to improve the interpretability, fairness, and accountability of ML models? [3,4,9,13]
 
 # Recent News 
-* I started my position as an assistant professor at [UT Dallas Naveen Jindal School of Management](https://jindal.utdallas.edu/) (with a courtesy appointment in CS)!
 * Our paper [Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design](https://arxiv.org/abs/2310.12026) is accepted at [RealML @ NeurIPS, 2023](https://realworldml.github.io/neurips2023/)!
 * Two papers - Contextual Recourse Bandits and Confounding-Robust Policy Improvement with Human-AI Teams are accepted at [CIST, 2023](https://sites.google.com/view/cist2023/home) and [INFORMS Data Science Workshop, 2023](https://meetings.informs.org/wordpress/phoenix2023/data-science-workshop/), respectively!
 * Our paper [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) is accepted at [ICML, 2023](https://icml.cc/Conferences/2023/Dates)!

@@ -13,13 +13,11 @@ I received my master's degree in Statistics from [Univerisity of Michigan](https
 [Netflix Research](https://research.netflix.com/) (advised by [James Mclnerney](https://jamesmc.com/) and [Nathan Kallus](https://nathankallus.com/)), [HBS](https://www.hbs.edu/) (advised by [Himabindu Lakkaraju](https://himalakkaraju.github.io/)), [IBM Research](https://research.ibm.com) (advised by [Wei Sun](https://researcher.watson.ibm.com/researcher/view.php?person=us-sunw), [Max Biggs](https://maxbiggs91.github.io/mbiggs.github.io/index.html), and [Markus Ettl](https://scholar.google.com/citations?user=wfFaZFkAAAAJ&hl=en)), [Tencent](https://www.tencent.com/en-us/), and [Amazon](https://www.amazon.com).
 
 # Research
-My research is centered around <b>Human-Centered Machine Learning</b>. Specifically, I aim to enhance ML/AI algorithms in areas such as 
-Human-AI Systems, Active Learning, Causal ML/RL, GenAI/LLM, and Explainable AI. Many of my research aim to answer these questions:
+My research focuses on advancing <b>Human-Centered Machine Learning</b>, with an emphasis on enhancing the robustness, interpretability, adaptability, and fairness of different kinds of ML/AI models. Many of my research aim to answer these questions:
 
 1. How to develop algorithms that can better utilize human expertise to enhance machine learning systems? [1,7,8,9,12,13,14,15]
-2. How to design better human-AI systems and comprehend their sociotechnical implications? [1,4,7,13,14]
-3. How to assess individual preference or algorithm performance in the presence of missing counterfactuals? [2,6,13,14,16,17]
-4. How to improve the interpretability, fairness, and accountability of ML models? [3,4,5,10,14]
+2. How to design more effective and ethical human-AI systems? [1,4,7,13,14]
+3. How to assess individual preferences or algorithm performance in the presence of missing counterfactuals? [2,6,13,14,16,17]
 
 # Recent News 
 * Our paper Training Uncertainty-Aware Regression Models is accepted at [Machine Learning](https://link.springer.com/journal/10994) (SI on Uncertainty Quantification)!

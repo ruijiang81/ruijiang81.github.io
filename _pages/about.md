@@ -20,7 +20,8 @@ My research focuses on advancing <b>Human-Centered Machine Learning</b>, with an
 3. How to assess individual preferences or algorithm performance in the presence of missing counterfactuals? [2,6,13,14,16,17]
 
 # Recent News 
-* Our paper Training Uncertainty-Aware Regression Models is accepted at [Machine Learning](https://link.springer.com/journal/10994) (SI on Uncertainty Quantification)!
+* Our Paper on Human-AI Collaborated Active Learning is accepted at [Neurlps, 2024](https://neurips.cc/)!
+* Our paper Adjusting Regression Models for Conditional Uncertainty Calibration is accepted at [Machine Learning](https://link.springer.com/journal/10994) (SI on Uncertainty Quantification)!
 * Our paper [Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design](https://arxiv.org/abs/2310.12026) is accepted at [RealML @ NeurIPS, 2023](https://realworldml.github.io/neurips2023/)!
 * Two papers - Contextual Recourse Bandits and Confounding-Robust Policy Improvement with Human-AI Teams are accepted at [CIST, 2023](https://sites.google.com/view/cist2023/home) and [INFORMS Data Science Workshop, 2023](https://meetings.informs.org/wordpress/phoenix2023/data-science-workshop/), respectively!
 * Our paper [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) is accepted at [ICML, 2023](https://icml.cc/Conferences/2023/Dates)!
@@ -34,7 +35,7 @@ My research focuses on advancing <b>Human-Centered Machine Learning</b>, with an
 [2] M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at **Operations Research - Major Revision**, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
 
 # Journal Publications 
-[3] **R Gao**, M Yin, J McInerney, N Kallus. Training Uncertainty-Aware Regression Models (Machine Learning)
+[3] **R Gao**, M Yin, J McInerney, N Kallus. Adjusting Regression Models for Conditional Uncertainty Calibration (Machine Learning)
 
 # Selected Publications at ML/AI Conferences 
 [4] **R Gao**, H Lakkaraju. [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) (ICML, 2023)

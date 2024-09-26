@@ -16,7 +16,7 @@ I received my master's degree in Statistics from [Univerisity of Michigan](https
 My research focuses on advancing <b>Human-Centered Machine Learning</b>, with an emphasis on enhancing the robustness, interpretability, adaptability, and fairness of different kinds of ML/AI models. Many of my research aim to answer these questions:
 
 1. How to develop algorithms that can better utilize human expertise to enhance machine learning systems? 
-2. How to design more effective and ethical human-AI systems? 
+2. How to design more effective/ethical human-AI systems and AI explanations? 
 3. How to assess individual preferences or algorithm performance in the presence of missing counterfactuals?
 
 # Recent News 

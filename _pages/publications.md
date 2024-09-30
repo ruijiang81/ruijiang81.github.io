@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 # Journal Publications 
-* **R Gao**, M Yin, J McInerney, N Kallus. Adjusting Regression Models for Conditional Uncertainty Calibration (Machine Learning SI on Uncertainty Quantification, 2024)
+* **R Gao**, M Yin, J McInerney, N Kallus. [Adjusting Regression Models for Conditional Uncertainty Calibration](https://arxiv.org/abs/2409.17466) (Machine Learning SI on Uncertainty Quantification, 2024)
 
 
 # Selected Publications at ML/AI Conferences 

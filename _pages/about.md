@@ -13,7 +13,7 @@ I received my master's degree in Statistics from [Univerisity of Michigan](https
 [Netflix Research](https://research.netflix.com/) (advised by [James Mclnerney](https://jamesmc.com/) and [Nathan Kallus](https://nathankallus.com/)), [HBS](https://www.hbs.edu/) (advised by [Himabindu Lakkaraju](https://himalakkaraju.github.io/)), [IBM Research](https://research.ibm.com) (advised by [Wei Sun](https://researcher.watson.ibm.com/researcher/view.php?person=us-sunw), [Max Biggs](https://maxbiggs91.github.io/mbiggs.github.io/index.html), and [Markus Ettl](https://scholar.google.com/citations?user=wfFaZFkAAAAJ&hl=en)), [Tencent](https://www.tencent.com/en-us/), and [Amazon](https://www.amazon.com).
 
 # Research
-My research focuses on advancing <b>Human-Centered Machine Learning</b>, with an emphasis on enhancing the robustness, interpretability, adaptability, and fairness of different kinds of ML/AI models. Many of my research aim to answer these questions:
+My research focuses on advancing <b>Human-Centered Machine Learning</b>, with an emphasis on enhancing the robustness, interpretability, adaptability, and fairness of different kinds of ML/AI models, including foundational models. Many of my research aim to answer these questions:
 
 1. How to develop algorithms that can better utilize human expertise to enhance machine learning systems? 
 2. How to design more effective/ethical human-AI systems and AI explanations? 

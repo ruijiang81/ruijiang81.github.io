@@ -24,19 +24,25 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-top: 0;
-  font-size: $type-size-3;
+  font-size: $type-size-4;
+  margin-bottom: 0.5;
 }
 
 h2 {
   font-size: $type-size-4;
+  margin-top: 2em;
+  margin-bottom: 1em;
 }
 
 h3 {
   font-size: $type-size-5;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 h4 {
   font-size: $type-size-6;
+  margin-top: 0;
 }
 
 h5 {
@@ -156,14 +162,49 @@ hr {
 
 /* lists */
 
-ul li,
-ol li {
-  margin-bottom: 0.5em;
+ul li {
+  margin-top: 0em;
+  margin-bottom: 0em;
+  font-size: 1em;
 }
 
-li ul,
+ol li {
+  margin-top: 0em;
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+
+li ul {
+  margin-top: 0em;
+  margin-bottom: 0.5em;
+  font-size: 1em;
+}
+
 li ol {
   margin-top: 0.5em;
+  margin-bottom: 0em;
+}
+
+ul, ol {
+  margin-top: 0em;
+  margin-bottom: 1em;
+  font-size: 1em; // Default size for multi-item lists
+}
+
+ul li, ol li {
+  margin-top: 0em;
+  margin-bottom: 0em;
+  font-size: 1em; // Default size for list items
+}
+
+// Target single-item lists
+ul:only-child, ol:only-child {
+  font-size: 1em; // Adjust this value as needed for single-item lists
+}
+
+// Target the only list item within a single-item list
+ul li:only-child, ol li:only-child {
+  font-size: 15px; // Should match the above value
 }
 
 /*
@@ -277,27 +318,27 @@ nav {
   ul {
     margin: 0;
     padding: 0;
+    font-size: 26px;
   }
 
   li {
     list-style: none;
+    font-size: 26px;
   }
 
   a {
     text-decoration: none;
   }
 
-  /* override white-space for nested lists */
-  ul li,
-  ol li {
-    margin-bottom: 0;
+  ul, ol {
+    font-size: 1em; // Default size for multi-item lists
   }
-
-  li ul,
-  li ol {
-    margin-top: 0;
+  
+  ul li, ol li {
+    font-size: 1em; // Default size for list items
   }
 }
+
 
 /*
    Global animation transition

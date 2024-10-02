@@ -37,3 +37,71 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+.expandable-section {
+    margin-bottom: 1em;
+  }
+  
+  .expandable-button {
+    background-color: #f1f1f1;
+    color: #444;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    font-size: 16px;
+  }
+  
+  .expandable-button:hover {
+    background-color: #ddd;
+  }
+  
+  .expandable-content {
+    padding: 0px 10px;
+    background-color: #f1f1f1;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    font-size: 16px;
+  }
+  
+  .expandable-button:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 16px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+  }
+
+  .red-text {
+    color: red;
+  }
+
+  .grey-text {
+    color: #777;
+  }
+
+  .grey-background {
+    background-color: #f1f1f1; // Very light grey
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    font-size: 16px;
+
+    ol {
+      font-size: 16px;
+    }
+
+    li {
+      font-size: 16px;
+    }
+  }
+

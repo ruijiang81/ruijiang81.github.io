@@ -26,7 +26,8 @@ My research focuses on advancing <span class="red-text">human-centered machine l
 <div class="expandable-section">
   <button class="expandable-button">Prospective Students</button>
   <div class="expandable-content">
-    <p>I am looking for self-motivated undergraduate/graduate students who are interested in the broad area of human-centered ML/AI. Please send me an email with your CV and a brief description of your research interests if you are interested in working with me. For prospective PhD students, please apply to the <a href="https://jindal.utdallas.edu/phd-programs/management-science/information-systems/">IS PhD program</a> at UT Dallas. Please note that I am unable to respond to individual inquiries regarding admissions to master’s or PhD programs.</p>
+    <p>
+    I am looking for self-motivated undergraduate/graduate students who are interested in the broad area of human-centered ML/AI. Please send me an email with your CV and a brief description of your research interests if you are interested in working with me. For prospective PhD students, please apply to the <a href="https://jindal.utdallas.edu/phd-programs/management-science/information-systems/">IS PhD program</a> at UT Dallas. Please note that I am unable to respond to individual inquiries regarding admissions to master’s or PhD programs.</p>
   </div>
 </div>
 
@@ -62,13 +63,12 @@ My research focuses on advancing <span class="red-text">human-centered machine l
 
 * L Han, MR Min, A Stathopoulos, Y Tian, **R Gao**, A Kadav, D Metaxas. [Dual Projection Generative Adversarial Networks for Conditional Image Generation](https://arxiv.org/abs/2108.09016). (ICCV 2021)
 
-### Journal Publications 
+### Journal Publications and Under Review at Journals
 * **R Gao**, M Yin, J McInerney, N Kallus. [Adjusting Regression Models for Conditional Uncertainty Calibration](https://arxiv.org/abs/2409.17466) (Machine Learning, 2024)
 
-### Under Review at Journals
-* **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. [Learning Complementary Policies for Human-AI Teams](https://arxiv.org/abs/2302.02944) (Under review at **Management Science - Reject and Resubmit**, previous title: Robust Human-AI Collaboration with Bandit Feedback, **Best Student Paper** at CIST, 2022)
+* [Under Review] **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. [Learning Complementary Policies for Human-AI Teams](https://arxiv.org/abs/2302.02944) (Under review at **Management Science - Reject and Resubmit**, previous title: Robust Human-AI Collaboration with Bandit Feedback, **Best Student Paper** at CIST, 2022)
 
-* M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at **Operations Research - Major Revision**, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
+* [Under Review] M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at **Operations Research - Major Revision**, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
 
 
 

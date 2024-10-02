@@ -89,6 +89,10 @@
     color: #777;
   }
 
+  .burntorange-text {
+    color: #cc5500;
+  }
+
   .grey-background {
     background-color: #f1f1f1; // Very light grey
     padding: 10px;
@@ -104,4 +108,11 @@
       font-size: 16px;
     }
   }
+
+  @font-face {
+    font-family: 'Nunito Sans'; /* Name of the font */
+    src: url('assets/fonts/NunitoSans.ttf') format('truetype'); /* Path to the font file */
+    font-weight: normal; /* Specify the weight */
+    font-style: normal;  /* Specify the style */
+}
 

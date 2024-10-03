@@ -10,7 +10,7 @@ redirect_from:
 I am an Assistant Professor in Information Systems at [Naveen Jindal School of Management](https://jindal.utdallas.edu/), [UT Dallas](https://www.utdallas.edu/).
 I received my PhD degree from [McCombs School of Business, UT Austin](https://www.mccombs.utexas.edu/). 
 I received my master's degree in Statistics from [Univerisity of Michigan](https://umich.edu/), and bachelor's degree in Statistics from [USTC](https://en.ustc.edu.cn/). I previously worked at 
-[Netflix Research](https://research.netflix.com/) (advised by [James Mclnerney](https://jamesmc.com/) and [Nathan Kallus](https://nathankallus.com/)), [Harvard](https://www.hbs.edu/) (advised by [Himabindu Lakkaraju](https://himalakkaraju.github.io/)), [IBM Research](https://research.ibm.com) (advised by [Wei Sun](https://researcher.watson.ibm.com/researcher/view.php?person=us-sunw), [Max Biggs](https://maxbiggs91.github.io/mbiggs.github.io/index.html), and [Markus Ettl](https://scholar.google.com/citations?user=wfFaZFkAAAAJ&hl=en)), [Tencent](https://www.tencent.com/en-us/), and [Amazon](https://www.amazon.com).
+[Netflix Research](https://research.netflix.com/) (advised by [James Mclnerney](https://jamesmc.com/) and [Nathan Kallus](https://nathankallus.com/)), [Harvard University](https://www.hbs.edu/) (advised by [Himabindu Lakkaraju](https://himalakkaraju.github.io/)), [IBM Research](https://research.ibm.com) (advised by [Wei Sun](https://researcher.watson.ibm.com/researcher/view.php?person=us-sunw), [Max Biggs](https://maxbiggs91.github.io/mbiggs.github.io/index.html), and [Markus Ettl](https://scholar.google.com/citations?user=wfFaZFkAAAAJ&hl=en)), [Tencent](https://www.tencent.com/en-us/), and [Amazon](https://www.amazon.com).
 
 # Research
 

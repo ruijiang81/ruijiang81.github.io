@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an Assistant Professor in Information Systems at [Naveen Jindal School of Management](https://jindal.utdallas.edu/), [UT Dallas](https://www.utdallas.edu/).
 I received my PhD degree in [Information, Risk, and Operations Management](https://www.mccombs.utexas.edu/faculty-research/departments/irom/) from [UT Austin](https://www.utexas.edu/). 
-I received my master's degree in Statistics from [Univerisity of Michigan](https://umich.edu/), and bachelor's degree in Statistics from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I previously worked at 
+I received my master's degree in Statistics from [Univerisity of Michigan](https://umich.edu/), and bachelor's degree in Statistics from [the School of the Gifted Young](https://en.scgy.ustc.edu.cn/) at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I previously worked at 
 [Netflix Research](https://research.netflix.com/) (advised by [James Mclnerney](https://jamesmc.com/) and [Nathan Kallus](https://nathankallus.com/)), [Harvard University](https://www.hbs.edu/) (advised by [Himabindu Lakkaraju](https://himalakkaraju.github.io/)), [IBM Research](https://research.ibm.com) (advised by [Wei Sun](https://researcher.watson.ibm.com/researcher/view.php?person=us-sunw), [Max Biggs](https://maxbiggs91.github.io/mbiggs.github.io/index.html), and [Markus Ettl](https://scholar.google.com/citations?user=wfFaZFkAAAAJ&hl=en)), [Tencent](https://www.tencent.com/en-us/), and [Amazon](https://www.amazon.com).
 
 # Research

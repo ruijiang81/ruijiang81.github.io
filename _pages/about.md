@@ -43,6 +43,12 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 ## Publications 
 \* Equal Contribution
 
+### Selected Preprints 
+
+* **R Gao**, M Yin. [Confounding-Robust Policy Improvement with Human-AI Teams](https://arxiv.org/abs/2310.08824) (Preliminary version accepted at INFORMS Data Science Workshop, 2023).
+
+* J Cao*, **R Gao**\*, E Keyvanshokooh\*. [HR-Bandit: Human-AI Collaborated Linear Recourse Bandit](https://arxiv.org/abs/2410.14640) (Preliminary version accepted at CIST, 2023, INFORMS 2024). 
+
 ### Selected Publications at ML/AI Conferences 
 
 * **R Gao**, M Yin, M Saar-Tsechansky. SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection (NeurIPS, 2024)
@@ -76,10 +82,6 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 Manuscript will be shared upon request.
 
 * **R Gao**, M Saar-Tsechansky. Active Incentive Learning (Preliminary version accepted at CIST, 2022). [[Abstract]](https://ruijiang81.github.io/publications/ail)
-
-* **R Gao**, M Yin. [Confounding-Robust Policy Improvement with Human-AI Teams](https://arxiv.org/abs/2310.08824) (Preliminary version accepted at INFORMS Data Science Workshop, 2023). [[Abstract]](https://ruijiang81.github.io/publications/confoundhai)
-
-* J Cao*, **R Gao**\*, E Keyvanshokooh\*. Contextual Recourse Bandits: Optimizing Decisions through Counterfactual Explanations (Preliminary version accepted at CIST, 2023). [[Abstract]](https://ruijiang81.github.io/publications/recoursebandit)
 
 * M Yin, **R Gao**, W Lin, S Shugan. Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design (Preliminary version is accepted at [RealML @ NeurIPS, 2023](https://realworldml.github.io/neurips2023/)). [[Abstract]](https://ruijiang81.github.io/publications/gsurvey)
 

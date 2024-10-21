@@ -47,7 +47,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 
 * **R Gao**, M Yin. [Confounding-Robust Policy Improvement with Human-AI Teams](https://arxiv.org/abs/2310.08824) (Preliminary version accepted at INFORMS Data Science Workshop, 2023).
 
-* J Cao*, **R Gao**\*, E Keyvanshokooh\*. [HR-Bandit: Human-AI Collaborated Linear Recourse Bandit](https://arxiv.org/abs/2410.14640) (Preliminary version accepted at CIST, 2023, INFORMS 2024). 
+* J Cao*, **R Gao**\*, E Keyvanshokooh\*. [HR-Bandit: Human-AI Collaborated Linear Recourse Bandit](https://arxiv.org/abs/2410.14640) (Preliminary version accepted at CIST 2023, INFORMS 2024). 
 
 ### Selected Publications at ML/AI Conferences 
 

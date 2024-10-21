@@ -32,10 +32,10 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News 
-* Our Paper on Human-AI Collaborated Active Learning with Selective Labels is accepted at [NeurIPS, 2024](https://neurips.cc/)!
+* Our Paper on Human-AI Collaborated Active Learning with Selective Labels is accepted at [NeurIPS 2024](https://neurips.cc/)!
 * Our paper [Adjusting Regression Models for Conditional Uncertainty Calibration](https://arxiv.org/abs/2409.17466) is accepted at [Machine Learning](https://link.springer.com/journal/10994) (SI on Uncertainty Quantification)!
 * Our paper [Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design](https://arxiv.org/abs/2310.12026) is accepted at [RealML @ NeurIPS, 2023](https://realworldml.github.io/neurips2023/)!
-* Two papers - Contextual Recourse Bandits and Confounding-Robust Policy Improvement with Human-AI Teams are accepted at [CIST, 2023](https://sites.google.com/view/cist2023/home) and [INFORMS Data Science Workshop, 2023](https://meetings.informs.org/wordpress/phoenix2023/data-science-workshop/), respectively!
+* Two papers - Contextual Recourse Bandits and Confounding-Robust Policy Improvement with Human-AI Teams are accepted at [CIST 2023](https://sites.google.com/view/cist2023/home) and [INFORMS Data Science Workshop, 2023](https://meetings.informs.org/wordpress/phoenix2023/data-science-workshop/), respectively!
 * Our paper [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) is accepted at [ICML, 2023](https://icml.cc/Conferences/2023/Dates)!
 * Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted at [AISTATS, 2023](http://aistats.org/aistats2023/) (Preliminary version accepted as Spotlight presentation at [ICML Distribution-Free Uncertainty Quantification, 2022](https://sites.google.com/berkeley.edu/dfuq-22/home))!
 * Two papers - Active Incentive Learning / [Robust Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2302.02944) (Best Student Paper, 1 out of ~200) are accepted at [CIST 2022](https://sites.google.com/view/cist2022/)!
@@ -45,15 +45,15 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 
 ### Selected Preprints 
 
-* **R Gao**, M Yin. [Confounding-Robust Policy Improvement with Human-AI Teams](https://arxiv.org/abs/2310.08824) (Preliminary version accepted at INFORMS Data Science Workshop, 2023).
+* **R Gao**, M Yin. [Confounding-Robust Policy Improvement with Human-AI Teams](https://arxiv.org/abs/2310.08824) (Preliminary version accepted at INFORMS Data Science Workshop 2023).
 
-* J Cao*, **R Gao**\*, E Keyvanshokooh\*. [HR-Bandit: Human-AI Collaborated Linear Recourse Bandit](https://arxiv.org/abs/2410.14640) (Preliminary version accepted at CIST 2023, INFORMS 2024). 
+* J Cao*, **R Gao**\*, E Keyvanshokooh\*. [HR-Bandit: Human-AI Collaborated Linear Recourse Bandit](https://arxiv.org/abs/2410.14640) (Preliminary version accepted at CIST 2023; INFORMS 2024). 
 
 ### Selected Publications at ML/AI Conferences 
 
-* **R Gao**, M Yin, M Saar-Tsechansky. SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection (NeurIPS, 2024)
+* **R Gao**, M Yin, M Saar-Tsechansky. SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection (NeurIPS 2024)
 
-* **R Gao**, H Lakkaraju. [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) (ICML, 2023)
+* **R Gao**, H Lakkaraju. [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) (ICML 2023)
 
 * Z Wang*, **R Gao**\*, M Yin\*, M Zhou, D Blei. [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) (AISTATS 2023)
 
@@ -70,9 +70,9 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 * L Han, MR Min, A Stathopoulos, Y Tian, **R Gao**, A Kadav, D Metaxas. [Dual Projection Generative Adversarial Networks for Conditional Image Generation](https://arxiv.org/abs/2108.09016). (ICCV 2021)
 
 ### Journal Publications and Under Review at Journals
-* **R Gao**, M Yin, J McInerney, N Kallus. [Adjusting Regression Models for Conditional Uncertainty Calibration](https://arxiv.org/abs/2409.17466) (Machine Learning, 2024)
+* **R Gao**, M Yin, J McInerney, N Kallus. [Adjusting Regression Models for Conditional Uncertainty Calibration](https://arxiv.org/abs/2409.17466) (Machine Learning 2024)
 
-* [Under Review] **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. [Learning Complementary Policies for Human-AI Teams](https://arxiv.org/abs/2302.02944) (Under review at **Management Science - Reject and Resubmit**, previous title: Robust Human-AI Collaboration with Bandit Feedback, **Best Student Paper** at CIST, 2022)
+* [Under Review] **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. [Learning Complementary Policies for Human-AI Teams](https://arxiv.org/abs/2302.02944) (Under review at **Management Science - Reject and Resubmit**, previous title: Robust Human-AI Collaboration with Bandit Feedback, **Best Student Paper** at CIST 2022)
 
 * [Under Review] M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at **Operations Research - Major Revision**, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
 
@@ -81,9 +81,9 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 ### Working Journal Papers
 Manuscript will be shared upon request.
 
-* **R Gao**, M Saar-Tsechansky. Active Incentive Learning (Preliminary version accepted at CIST, 2022). [[Abstract]](https://ruijiang81.github.io/publications/ail)
+* **R Gao**, M Saar-Tsechansky. Active Incentive Learning (Preliminary version accepted at CIST 2022). [[Abstract]](https://ruijiang81.github.io/publications/ail)
 
-* M Yin, **R Gao**, W Lin, S Shugan. Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design (Preliminary version is accepted at [RealML @ NeurIPS, 2023](https://realworldml.github.io/neurips2023/)). [[Abstract]](https://ruijiang81.github.io/publications/gsurvey)
+* M Yin, **R Gao**, W Lin, S Shugan. Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design (Preliminary version is accepted at [RealML @ NeurIPS 2023](https://realworldml.github.io/neurips2023/)). [[Abstract]](https://ruijiang81.github.io/publications/gsurvey)
 
 ### Patent 
 * **R Gao**, W Sun, M Biggs, M Ettl, Y Drissi. [Counterfactual Self-Training](https://patents.google.com/patent/US20230045950A1/en) US Patent App. 17/402,367.

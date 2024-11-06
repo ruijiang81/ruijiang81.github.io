@@ -28,6 +28,9 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
   <div class="expandable-content">
     <p>
     I am looking for self-motivated undergraduate/graduate students who are interested in the broad area of human-centered ML/AI. Please send me an email with your CV and a brief description of your research interests if you are interested in working with me. For prospective PhD students, please apply to the <a href="https://jindal.utdallas.edu/phd-programs/management-science/information-systems/">IS PhD program</a> at UT Dallas. Please note that I am unable to respond to individual inquiries regarding admissions to master’s or PhD programs.</p>
+<p>
+    The Jindal School of Management (JSOM) at UT Dallas is ranked <a href="https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings/worldRankings#20192023">#2 worldwide</a> in research contributions and is recognized as a top 40 business school by <a href="https://www.usnews.com/best-graduate-schools/top-business-schools/the-university-of-texas-at-dallas-01371">U.S. News & World Report</a>. The Information Systems (IS) PhD program has an excellent track record of placements, with recent graduates securing assistant professor positions at universities such as HKUST, Temple University, UIUC, and University of Washington.
+</p>
   </div>
 </div>
 

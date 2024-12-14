@@ -35,6 +35,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News 
+* Our paper [Confounding-Robost Deferral Policy Learning](https://arxiv.org/abs/2310.08824) is accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)!
 * Our Paper on Human-AI Collaborated Active Learning with Selective Labels is accepted at [NeurIPS 2024](https://neurips.cc/)!
 * Our paper [Adjusting Regression Models for Conditional Uncertainty Calibration](https://arxiv.org/abs/2409.17466) is accepted at [Machine Learning](https://link.springer.com/journal/10994) (SI on Uncertainty Quantification)!
 * Our paper [Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design](https://arxiv.org/abs/2310.12026) is accepted at [RealML @ NeurIPS, 2023](https://realworldml.github.io/neurips2023/)!

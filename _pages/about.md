@@ -105,7 +105,7 @@ Manuscript will be shared upon request.
 
 ## Professional Service
 Program Committee Member and Reviewer for 
-* Journal: ISR, OR, IJOC, TPAMI, Scientific Reports
+* Journal: Management Science, Information Systems Research, Operations Research, IJOC, TPAMI, Scientific Reports, ..
 * ML/AI conference: ICLR, NeurIPS, ICML, FAccT, AISTATS, AAAI, WACV
 * IS conference: WITS, ICIS, INFORMS Data Science Workshop
 

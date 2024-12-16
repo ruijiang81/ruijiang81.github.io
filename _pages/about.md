@@ -49,11 +49,10 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 
 ### Selected Preprints 
 
-* **R Gao**, M Yin. [Confounding-Robust Policy Improvement with Human-AI Teams](https://arxiv.org/abs/2310.08824) (Preliminary version accepted at INFORMS Data Science Workshop 2023).
-
 * J Cao*, **R Gao**\*, E Keyvanshokooh\*. [HR-Bandit: Human-AI Collaborated Linear Recourse Bandit](https://arxiv.org/abs/2410.14640) (Preliminary version accepted at CIST 2023; INFORMS 2024). 
 
 ### Selected Publications at ML/AI Conferences 
+* **R Gao**, M Yin. [Confounding-Robost Deferral Policy Learning](https://arxiv.org/abs/2310.08824) (AAAI 2025).
 
 * **R Gao**, M Yin, M Saar-Tsechansky. SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection (NeurIPS 2024)
 

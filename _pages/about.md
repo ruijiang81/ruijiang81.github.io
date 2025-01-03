@@ -35,7 +35,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News 
-* Our paper [SEL-BALD](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) was honored as the Best Paper Runner-Up at [WITS 2024](https://witsconf.org/)!
+* Our paper [SEL-BALD](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) was honored as the Best Paper Runner-Up (2nd out of 243 accepted papers) at [WITS 2024](https://witsconf.org/)!
 * Our paper [Confounding-Robost Deferral Policy Learning](https://arxiv.org/abs/2310.08824) is accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)!
 * Our Paper on [Human-AI Collaborated Active Learning with Selective Labels](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) is accepted at [NeurIPS 2024](https://neurips.cc/)!
 * Our paper [Adjusting Regression Models for Conditional Uncertainty Calibration](https://arxiv.org/abs/2409.17466) is accepted at [Machine Learning](https://link.springer.com/journal/10994) (SI on Uncertainty Quantification)!
@@ -43,7 +43,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 * Two papers - Contextual Recourse Bandits and Confounding-Robust Policy Improvement with Human-AI Teams are accepted at [CIST 2023](https://sites.google.com/view/cist2023/home) and [INFORMS Data Science Workshop, 2023](https://meetings.informs.org/wordpress/phoenix2023/data-science-workshop/), respectively!
 * Our paper [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) is accepted at [ICML, 2023](https://icml.cc/Conferences/2023/Dates)!
 * Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted at [AISTATS, 2023](http://aistats.org/aistats2023/) (Preliminary version accepted as Spotlight presentation at [ICML Distribution-Free Uncertainty Quantification, 2022](https://sites.google.com/berkeley.edu/dfuq-22/home))!
-* Two papers - Active Incentive Learning / [Robust Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2302.02944) (Best Student Paper, 1 out of ~200) are accepted at [CIST 2022](https://sites.google.com/view/cist2022/)!
+* Two papers - Active Incentive Learning / [Robust Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2302.02944) (Best Student Paper, 1 out of ~200 accepted papers) are accepted at [CIST 2022](https://sites.google.com/view/cist2022/)!
 
 ## Publications 
 \* Equal Contribution
@@ -97,8 +97,8 @@ Manuscript will be shared upon request.
 
 
 ## Awards and Fellowships 
-* Best Paper Runner-Up Award at [WITS 2024](https://witsconf.org/) (2nd out of 243). 
-* Best Student Paper Award at [CIST 2022](https://sites.google.com/view/cist2022/) (1 out of ~200).
+* Best Paper Runner-Up Award at [WITS 2024](https://witsconf.org/) (2nd out of 243 accepted papers). 
+* Best Student Paper Award at [CIST 2022](https://sites.google.com/view/cist2022/) (1 out of ~200 accepted papers).
 * PhD Incubator Special Recognition Award at [INFORMS Advances in Decision Analysis Conference](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2022-Advances-in-Decision-Analysis-Conference).
 * INFORMS Data Science Workshop Scholarship 2022, 2023. 
 * UT Austin Continuing Fellowship 2022-2023 (competitive fellowship, one nomination per department).

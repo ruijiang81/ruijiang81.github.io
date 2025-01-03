@@ -35,8 +35,9 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News 
+* Our paper [SEL-BALD](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) was honored as the Best Paper Runner-Up at [WITS 2024](https://witsconf.org/)!
 * Our paper [Confounding-Robost Deferral Policy Learning](https://arxiv.org/abs/2310.08824) is accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)!
-* Our Paper on Human-AI Collaborated Active Learning with Selective Labels is accepted at [NeurIPS 2024](https://neurips.cc/)!
+* Our Paper on [Human-AI Collaborated Active Learning with Selective Labels](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) is accepted at [NeurIPS 2024](https://neurips.cc/)!
 * Our paper [Adjusting Regression Models for Conditional Uncertainty Calibration](https://arxiv.org/abs/2409.17466) is accepted at [Machine Learning](https://link.springer.com/journal/10994) (SI on Uncertainty Quantification)!
 * Our paper [Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design](https://arxiv.org/abs/2310.12026) is accepted at [RealML @ NeurIPS, 2023](https://realworldml.github.io/neurips2023/)!
 * Two papers - Contextual Recourse Bandits and Confounding-Robust Policy Improvement with Human-AI Teams are accepted at [CIST 2023](https://sites.google.com/view/cist2023/home) and [INFORMS Data Science Workshop, 2023](https://meetings.informs.org/wordpress/phoenix2023/data-science-workshop/), respectively!
@@ -54,7 +55,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 ### Selected Publications at ML/AI Conferences 
 * **R Gao**, M Yin. [Confounding-Robost Deferral Policy Learning](https://arxiv.org/abs/2310.08824) (AAAI 2025).
 
-* **R Gao**, M Yin, M Saar-Tsechansky. SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection (NeurIPS 2024)
+* **R Gao**, M Yin, M Saar-Tsechansky. [SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) (NeurIPS 2024)
 
 * **R Gao**, H Lakkaraju. [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) (ICML 2023)
 
@@ -96,6 +97,7 @@ Manuscript will be shared upon request.
 
 
 ## Awards and Fellowships 
+* Best Paper Runner-Up Award at [WITS 2024](https://witsconf.org/) (2nd out of 243). 
 * Best Student Paper Award at [CIST 2022](https://sites.google.com/view/cist2022/) (1 out of ~200).
 * PhD Incubator Special Recognition Award at [INFORMS Advances in Decision Analysis Conference](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2022-Advances-in-Decision-Analysis-Conference).
 * INFORMS Data Science Workshop Scholarship 2022, 2023. 

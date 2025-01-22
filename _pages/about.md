@@ -35,6 +35,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News 
+* Our paper [HR-Bandit](https://arxiv.org/abs/2410.14640) is accepted at [AISTATS 2025](https://aistats.org/aistats2025/)!
 * Our paper [SEL-BALD](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) was honored as the Best Paper Runner-Up (2nd out of 243 accepted papers) at [WITS 2024](https://witsconf.org/)!
 * Our paper [Confounding-Robost Deferral Policy Learning](https://arxiv.org/abs/2310.08824) is accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)!
 * Our Paper on [Human-AI Collaborated Active Learning with Selective Labels](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) is accepted at [NeurIPS 2024](https://neurips.cc/)!
@@ -48,11 +49,9 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 ## Publications 
 \* Equal Contribution
 
-### Selected Preprints 
-
-* J Cao*, **R Gao**\*, E Keyvanshokooh\*. [HR-Bandit: Human-AI Collaborated Linear Recourse Bandit](https://arxiv.org/abs/2410.14640) (Preliminary version accepted at CIST 2023; INFORMS 2024). 
-
 ### Selected Publications at ML/AI Conferences 
+* J Cao*, **R Gao**\*, E Keyvanshokooh\*. [HR-Bandit: Human-AI Collaborated Linear Recourse Bandit](https://arxiv.org/abs/2410.14640) (AISTATS 2025). 
+
 * **R Gao**, M Yin. [Confounding-Robost Deferral Policy Learning](https://arxiv.org/abs/2310.08824) (AAAI 2025).
 
 * **R Gao**, M Yin, M Saar-Tsechansky. [SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) (NeurIPS 2024)

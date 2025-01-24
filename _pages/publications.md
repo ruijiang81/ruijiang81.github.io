@@ -11,7 +11,7 @@ author_profile: true
 
 * **R Gao**, M Yin. [Confounding-Robost Deferral Policy Learning](https://arxiv.org/abs/2310.08824) (AAAI 2025).
 
-* **R Gao**, M Yin, M Saar-Tsechansky. SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection (NeurIPS, 2024)
+* **R Gao**, M Yin, M Saar-Tsechansky. [SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) (NeurIPS 2024)
 
 * **R Gao**, H Lakkaraju. [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) (ICML, 2023)
 

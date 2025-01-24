@@ -7,6 +7,10 @@ author_profile: true
 
 # Selected Publications at ML/AI Conferences 
 
+* J Cao*, **R Gao**\*, E Keyvanshokooh\*. [HR-Bandit: Human-AI Collaborated Linear Recourse Bandit](https://arxiv.org/abs/2410.14640) (AISTATS 2025). 
+
+* **R Gao**, M Yin. [Confounding-Robost Deferral Policy Learning](https://arxiv.org/abs/2310.08824) (AAAI 2025).
+
 * **R Gao**, M Yin, M Saar-Tsechansky. SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection (NeurIPS, 2024)
 
 * **R Gao**, H Lakkaraju. [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) (ICML, 2023)

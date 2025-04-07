@@ -35,6 +35,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News 
+* Received New Faculty Research Grant (2 out of 11)! 
 * Our paper [HR-Bandit](https://arxiv.org/abs/2410.14640) is accepted at [AISTATS 2025](https://aistats.org/aistats2025/)!
 * Our paper [SEL-BALD](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) was honored as the Best Paper Runner-Up (2nd out of 243 accepted papers) at [WITS 2024](https://witsconf.org/)!
 * Our paper [Confounding-Robost Deferral Policy Learning](https://arxiv.org/abs/2310.08824) is accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)!
@@ -96,6 +97,7 @@ Manuscript will be shared upon request.
 
 
 ## Awards and Fellowships 
+* New Faculty Research Grant (2 out of 11). 
 * Best Paper Runner-Up Award at [WITS 2024](https://witsconf.org/) (2nd out of 243 accepted papers). 
 * Best Student Paper Award at [CIST 2022](https://sites.google.com/view/cist2022/) (1 out of ~200 accepted papers).
 * PhD Incubator Special Recognition Award at [INFORMS Advances in Decision Analysis Conference](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2022-Advances-in-Decision-Analysis-Conference).
@@ -106,7 +108,7 @@ Manuscript will be shared upon request.
 
 ## Professional Service
 Program Committee Member and Reviewer for 
-* Journal: Management Science, Information Systems Research, Operations Research, IJOC, TPAMI, Scientific Reports, ..
+* Journal: Management Science, Information Systems Research, MIS Quarterly, Operations Research, IJOC, TPAMI, Scientific Reports, ..
 * ML/AI conference: ICLR, NeurIPS, ICML, FAccT, AISTATS, AAAI, WACV
 * IS conference: WITS, ICIS, INFORMS Data Science Workshop
 

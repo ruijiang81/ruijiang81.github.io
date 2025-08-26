@@ -15,7 +15,7 @@ I received my master's degree in Statistics from [Univerisity of Michigan](https
 # Research
 
 <div class="grey-background">
-My research focuses on advancing <span class="burntorange-text">human-centered machine learning</span>, with an emphasis on enhancing the <span class="burntorange-text">robustness</span>, <span class="burntorange-text">interpretability</span>, <span class="burntorange-text">adaptability</span>, and <span class="burntorange-text">fairness</span> of different kinds of ML/AI models, including foundational models. Many of my research aim to answer these questions:
+My research focuses on advancing <span class="burntorange-text">human-centered machine learning</span>, with an emphasis on enhancing the <span class="burntorange-text">robustness</span>, <span class="burntorange-text">interpretability</span>, <span class="burntorange-text">adaptability</span>, and <span class="burntorange-text">privacy</span> of different kinds of ML/AI models, including foundational models. Many of my research aim to answer these questions:
 <ol>
 <li>How to develop algorithms that can better utilize human expertise to enhance machine learning systems?</li>
 <li>How to design more effective/ethical human-AI systems and AI explanations?</li>
@@ -35,6 +35,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News 
+* Our paper Secure Data Marketplace is accepted at [CIST 2025](https://sites.google.com/view/cist2025) and [INFORMS WDS](https://sites.google.com/view/data-science-2025/)!
 * Received New Faculty Research Grant (2 out of 11)! 
 * Our paper [HR-Bandit](https://arxiv.org/abs/2410.14640) is accepted at [AISTATS 2025](https://aistats.org/aistats2025/)!
 * Our paper [SEL-BALD](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) was honored as the Best Paper Runner-Up (2nd out of 243 accepted papers) at [WITS 2024](https://witsconf.org/)!
@@ -76,14 +77,16 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 ### Journal Publications and Under Review at Journals
 * **R Gao**, M Yin, J McInerney, N Kallus. [Adjusting Regression Models for Conditional Uncertainty Calibration](https://arxiv.org/abs/2409.17466) (Machine Learning 2024)
 
-* [Under Review] **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. [Learning Complementary Policies for Human-AI Teams](https://arxiv.org/abs/2302.02944) (Under review at **Management Science - Reject and Resubmit**, previous title: Robust Human-AI Collaboration with Bandit Feedback, **Best Student Paper** at CIST 2022)
-
-* [Under Review] M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at **Operations Research - Major Revision**, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
-
-
-
 ### Working Journal Papers
 Manuscript will be shared upon request.
+
+* [Under Review] **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. [Learning Complementary Policies for Human-AI Teams](https://arxiv.org/abs/2302.02944) (Under review at **Management Science - Major Revision**, previous title: Robust Human-AI Collaboration with Bandit Feedback, **Best Student Paper** at CIST 2022)
+
+* [Under Review] M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at **Operations Research - Major Revision**, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022).
+
+* [Under Review] M Yin, **R Gao**, Z Cong. [Personalizing Language Models for Generative Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329729)
+
+* Y Yang, **R Gao**, Z Zheng. Sell Data to AI Algorithms Without Revealing It: Secure Data Valuation and Sharing via Homomorphic Encryption. (Preliminary version is accepted at [CIST 2025](https://sites.google.com/view/cist2025) and [INFORMS WDS](https://sites.google.com/view/data-science-2025/))
 
 * **R Gao**, M Saar-Tsechansky. Active Incentive Learning (Preliminary version accepted at CIST 2022). [[Abstract]](https://ruijiang81.github.io/publications/ail)
 

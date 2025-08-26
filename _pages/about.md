@@ -74,7 +74,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 
 * L Han, MR Min, A Stathopoulos, Y Tian, **R Gao**, A Kadav, D Metaxas. [Dual Projection Generative Adversarial Networks for Conditional Image Generation](https://arxiv.org/abs/2108.09016). (ICCV 2021)
 
-### Journal Publications and Under Review at Journals
+### Journal Publications
 * **R Gao**, M Yin, J McInerney, N Kallus. [Adjusting Regression Models for Conditional Uncertainty Calibration](https://arxiv.org/abs/2409.17466) (Machine Learning 2024)
 
 ### Working Journal Papers

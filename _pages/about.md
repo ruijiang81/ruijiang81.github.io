@@ -102,7 +102,7 @@ summary:hover {
 </style>
 
 <details>
-<summary>Human-AI Collaboration</summary>
+<summary>Human-AI Collaboration and Generative AI</summary>
 <div class="pub-content">
 <ol>
 <li>
@@ -126,9 +126,19 @@ J Cao*, <strong>R Gao</strong>*, E Keyvanshokooh*. <br/>
 <span class="venue-box">IJCAI 2021</span>
 </li>
 <li>
+L Han, MR Min, A Stathopoulos, Y Tian, <strong>R Gao</strong>, A Kadav, D Metaxas. <br/>
+<a href="https://arxiv.org/abs/2108.09016">Dual Projection Generative Adversarial Networks for Conditional Image Generation</a>
+<span class="venue-box">ICCV 2021</span>
+</li>
+<li>
 [Under Review] <strong>R Gao</strong>, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. <br/>
 <a href="https://arxiv.org/abs/2302.02944">Learning Complementary Policies for Human-AI Teams</a>
 <span class="venue-box">Management Science - Major Revision</span> <span class="award-highlight">Best Student Paper at CIST 2022</span>
+</li>
+<li>
+[Under Review] M Yin, <strong>R Gao</strong>, Z Cong. <br/>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329729">Personalizing Language Models for Generative Targeting</a>
+<span class="venue-box">Marketing Science - Reject and Resubmit</span><span class="award-highlight">Marketing Science Institute Grant</span>
 </li>
 </ol>
 </div>
@@ -237,6 +247,7 @@ Sell Data to AI Algorithms Without Revealing It: Secure Data Valuation and Shari
 <li>
 [Under Review] M Yin, <strong>R Gao</strong>, Z Cong. <br/>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329729">Personalizing Language Models for Generative Targeting</a>
+<span class="venue-box">Marketing Science - Reject and Resubmit</span><span class="award-highlight">Marketing Science Institute Grant</span>
 </li>
 <li>
 Y Yang, <strong>R Gao</strong>, Z Zheng. <br/>

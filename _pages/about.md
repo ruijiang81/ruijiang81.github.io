@@ -17,7 +17,7 @@ I received my master's degree in Statistics from [Univerisity of Michigan](https
 <div class="grey-background">
 My research focuses on advancing <span class="burntorange-text">human-centered machine learning</span>, with an emphasis on enhancing the <span class="burntorange-text">robustness</span>, <span class="burntorange-text">interpretability</span>, <span class="burntorange-text">adaptability</span>, and <span class="burntorange-text">privacy</span> of different kinds of ML/AI models, including foundational models. Many of my research aim to answer these questions:
 <ol>
-<li>How to develop algorithms that can better work with humans?</li>
+<li>How to develop algorithms that can work better with humans?</li>
 <li>How to design more effective human-AI systems and AI explanations?</li>
 <li>How to assess individual preferences or algorithm performance in the presence of missing counterfactuals?</li>
 </ol>

@@ -35,7 +35,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News 
-* Our paper Secure Data Marketplace is accepted at [CIST 2025](https://sites.google.com/view/cist2025) and [INFORMS WDS](https://sites.google.com/view/data-science-2025/)!
+* Our paper Secure Data Marketplace is accepted at [CIST 2025](https://sites.google.com/view/cist2025)/[INFORMS WDS](https://sites.google.com/view/data-science-2025/)/[LockLLM@NeurIPS 25](https://neurips.cc/virtual/2025/workshop/109568)!
 * Received New Faculty Research Grant (2 out of 11)! 
 * Our paper [HR-Bandit](https://arxiv.org/abs/2410.14640) is accepted at [AISTATS 2025](https://aistats.org/aistats2025/)!
 * Our paper [SEL-BALD](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) was honored as the Best Paper Runner-Up (2nd out of 243 accepted papers) at [WITS 2024](https://witsconf.org/)!

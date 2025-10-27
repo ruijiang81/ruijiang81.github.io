@@ -35,7 +35,8 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News 
-* Our paper Secure Data Marketplace is accepted at [CIST 2025](https://sites.google.com/view/cist2025)/[INFORMS WDS](https://sites.google.com/view/data-science-2025/)/[LockLLM@NeurIPS 25](https://neurips.cc/virtual/2025/workshop/109568)!
+* Received [INFORMS ISS Nunamaker-Chen Dissertation Runner-Up Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Nunamaker-Chen-Dissertation-Award)!
+* Our paper Secure Data Marketplace (Preprint Coming Soon) received Best Paper Award at [INFORMS Workshop on Data Science 2025](https://sites.google.com/view/data-science-2025/) (Preliminary version is also accepted at CIST/LockLLM @ NeurIPS 25)!
 * Received New Faculty Research Grant (2 out of 11)! 
 * Our paper [HR-Bandit](https://arxiv.org/abs/2410.14640) is accepted at [AISTATS 2025](https://aistats.org/aistats2025/)!
 * Our paper [SEL-BALD](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) was honored as the Best Paper Runner-Up (2nd out of 243 accepted papers) at [WITS 2024](https://witsconf.org/)!
@@ -222,7 +223,7 @@ J Cao*, <strong>R Gao</strong>*, E Keyvanshokooh*. <br/>
 <li>
 [Working Paper] Y Yang, <strong>R Gao</strong>, Z Zheng. <br/>
 Sell Data to AI Algorithms Without Revealing It: Secure Data Valuation and Sharing via Homomorphic Encryption.
-<span class="venue-box">Preliminary version at CIST 2025 & INFORMS WDS 2025</span>
+<span class="venue-box">Preliminary version at CIST 2025 & INFORMS WDS 2025</span> <span class="award-highlight">Best Paper Award at INFORMS Workshop on Data Science 2025</span>
 </li>
 </ol>
 </div>
@@ -252,7 +253,7 @@ Sell Data to AI Algorithms Without Revealing It: Secure Data Valuation and Shari
 <li>
 Y Yang, <strong>R Gao</strong>, Z Zheng. <br/>
 Sell Data to AI Algorithms Without Revealing It: Secure Data Valuation and Sharing via Homomorphic Encryption.
-<span class="venue-box">Preliminary version at CIST 2025 & INFORMS WDS 2025</span>
+<span class="venue-box">Preliminary version at CIST 2025 & INFORMS WDS 2025</span> <span class="award-highlight">Best Paper Award at INFORMS Workshop on Data Science 2025</span>
 </li>
 <li>
 M Yin, <strong>R Gao</strong>, W Lin, S Shugan. <br/>
@@ -277,6 +278,8 @@ M Yin, <strong>R Gao</strong>, W Lin, S Shugan. <br/>
 </details>
 
 ## Awards and Fellowships 
+* Best Paper Award at [INFORMS Workshop on Data Science 2025](https://sites.google.com/view/data-science-2025/).
+* [INFORMS ISS Nunamaker-Chen Dissertation Runner-Up Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Nunamaker-Chen-Dissertation-Award).
 * New Faculty Research Grant (2 out of 11). 
 * Best Paper Runner-Up Award at [WITS 2024](https://witsconf.org/) (2nd out of 243 accepted papers). 
 * Best Student Paper Award at [CIST 2022](https://sites.google.com/view/cist2022/) (1 out of ~200 accepted papers).

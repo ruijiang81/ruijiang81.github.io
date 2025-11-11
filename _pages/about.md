@@ -35,7 +35,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News 
-* Our paper [AI Reasoning and Unique Human Knowledge] (https://arxiv.org/abs/2511.04050) is accepted at [WISE, 2025](https://sites.google.com/view/wise2025)!
+* Our paper [AI Reasoning and Unique Human Knowledge](https://arxiv.org/abs/2511.04050) is accepted at [WISE, 2025](https://sites.google.com/view/wise2025)!
 * Received [INFORMS ISS Nunamaker-Chen Dissertation Runner-Up Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Nunamaker-Chen-Dissertation-Award) 🏆!
 * Our paper Secure Data Marketplace (Preprint Coming Soon) received Best Paper Award 🏆 at [INFORMS Workshop on Data Science 2025](https://sites.google.com/view/data-science-2025/) (Preliminary version is also accepted at CIST/LockLLM @ NeurIPS 25)!
 * Received New Faculty Research Grant 🏆 (2 out of 11)! 

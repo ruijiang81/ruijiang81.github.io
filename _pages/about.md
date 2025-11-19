@@ -17,14 +17,16 @@ I received my master's degree in Statistics from [Univerisity of Michigan](https
 <div class="grey-background">
 My research focuses on advancing <span class="burntorange-text">human-centered machine learning</span>, with an emphasis on enhancing the <span class="burntorange-text">robustness</span>, <span class="burntorange-text">interpretability</span>, <span class="burntorange-text">adaptability</span>, and <span class="burntorange-text">privacy</span> of different kinds of ML/AI models, including foundational models. Many of my research aim to answer these questions:
 <ol>
-<li>How to develop algorithms that can work better with humans?</li>
-<li>How to design more effective human-AI systems and AI explanations?</li>
-<li>How to assess individual preferences or algorithm performance in the presence of missing counterfactuals?</li>
+<li><strong>Human-AI Complementarity:</strong> How do we design effective human-AI systems?</li>
+<li><strong>Trustworthy Inference:</strong> How can we train and evaluate models in high-stakes settings?</li>
+<li><strong>Responsible AI Ecosystems:</strong> How do we create responsible AI ecosystems for human creators?</li>
 </ol>
 </div>
 
+
+
 <div class="expandable-section">
-  <button class="expandable-button">Prospective Students</button>
+  <button class="expandable-button">🎓 Prospective Students</button>
   <div class="expandable-content">
     <p>
     I am looking for self-motivated undergraduate/graduate students who are interested in the broad area of human-centered ML/AI. Please send me an email with your CV and a brief description of your research interests if you are interested in working with me. For prospective PhD students, please apply to the <a href="https://jindal.utdallas.edu/phd-programs/management-science/information-systems/">IS PhD program</a> at UT Dallas. Please note that I am unable to respond to individual inquiries regarding admissions to master’s or PhD programs.</p>

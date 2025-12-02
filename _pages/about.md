@@ -17,9 +17,10 @@ I received my master's degree in Statistics from [Univerisity of Michigan](https
 <div class="grey-background">
 My research focuses on advancing <span class="burntorange-text">human-centered machine learning</span>, with an emphasis on enhancing the <span class="burntorange-text">robustness</span>, <span class="burntorange-text">interpretability</span>, <span class="burntorange-text">adaptability</span>, and <span class="burntorange-text">privacy</span> of different kinds of ML/AI models, including foundational models. Many of my research aim to answer these questions:
 <ol>
-<li><strong>Human-AI Complementarity:</strong> How do we design effective human-AI systems?</li>
+<li><strong>Human-AI Systems:</strong> How do we design effective human-AI systems and how to align AI with humans?</li>
 <li><strong>Trustworthy Inference:</strong> How can we train and evaluate models in high-stakes settings?</li>
-<li><strong>Responsible AI Ecosystems:</strong> How do we create responsible AI ecosystems for human creators?</li>
+<li><strong>The Economics of Data & Incentives:</strong> How to evaluate/price data for ML/AI models?</li>
+<li><strong>Algorithmic Decision Making:</strong> How to develop novel AI method for business applications?</li>
 </ol>
 </div>
 

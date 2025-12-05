@@ -150,7 +150,7 @@ Z Chen*, <strong>R Gao</strong>*, Y Liang*. <br/>
 </li>
 <li>
 J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
-<a href="https://ruijiang81.github.io/publications/gsurvey">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
+<a href="https://arxiv.org/abs/2312.06646">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
 </li>
 </ol>
 </div>
@@ -238,7 +238,7 @@ J Cao*, <strong>R Gao</strong>*, E Keyvanshokooh*. <br/>
 </li>
 <li>
 J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
-<a href="https://ruijiang81.github.io/publications/gsurvey">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
+<a href="https://arxiv.org/abs/2312.06646">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
 </li>
 </ol>
 </div>
@@ -279,6 +279,10 @@ M Yin, <strong>R Gao</strong>, W Lin, S Shugan. <br/>
 Z Chen*, <strong>R Gao</strong>*, Y Liang*. <br/>
 <a href="https://ruijiang81.github.io/publications/gsurvey">Revealing AI Reasoning Increases Trust but Crowds Out Unique Human Knowledge</a>
 <span class="venue-box">Preliminary version at WISE 2025</span>
+</li>
+<li>
+J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
+<a href="https://arxiv.org/abs/2312.06646">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
 </li>
 </ol>
 <h4>Patents</h4>

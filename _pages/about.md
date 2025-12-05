@@ -37,7 +37,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
   </div>
 </div>
 
-## Recent News 
+## Recent News  
 * Our paper [AI Reasoning and Unique Human Knowledge](https://arxiv.org/abs/2511.04050) is accepted at [WISE, 2025](https://sites.google.com/view/wise2025)!
 * Received [INFORMS ISS Nunamaker-Chen Dissertation Runner-Up Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Nunamaker-Chen-Dissertation-Award) 🏆!
 * Our paper Secure Data Marketplace (Preprint Coming Soon) received Best Paper Award 🏆 at [INFORMS Workshop on Data Science 2025](https://sites.google.com/view/data-science-2025/) (Preliminary version is also accepted at CIST/LockLLM @ NeurIPS 25)!
@@ -148,6 +148,10 @@ Z Chen*, <strong>R Gao</strong>*, Y Liang*. <br/>
 <a href="https://ruijiang81.github.io/publications/gsurvey">Revealing AI Reasoning Increases Trust but Crowds Out Unique Human Knowledge</a>
 <span class="venue-box">Preliminary version at WISE 2025</span>
 </li>
+<li>
+J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
+<a href="https://ruijiang81.github.io/publications/gsurvey">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
+</li>
 </ol>
 </div>
 </details>
@@ -231,6 +235,10 @@ J Cao*, <strong>R Gao</strong>*, E Keyvanshokooh*. <br/>
 [Working Paper] Y Yang, <strong>R Gao</strong>, Z Zheng. <br/>
 Sell Data to AI Algorithms Without Revealing It: Secure Data Valuation and Sharing via Homomorphic Encryption.
 <span class="venue-box">Preliminary version at CIST 2025 & INFORMS WDS 2025</span> <span class="award-highlight">Best Paper Award at INFORMS Workshop on Data Science 2025</span>
+</li>
+<li>
+J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
+<a href="https://ruijiang81.github.io/publications/gsurvey">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
 </li>
 </ol>
 </div>

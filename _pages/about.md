@@ -151,7 +151,7 @@ Z Chen*, <strong>R Gao</strong>*, Y Liang*. <br/>
 <li>
 J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
 <a href="https://arxiv.org/abs/2312.06646">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
-<span class="venue-box">Preliminary version at GenAI and Law at ICML 2024</span>
+<span class="venue-box">Preliminary version at GenAI and Law @ ICML 2024</span>
 </li>
 </ol>
 </div>
@@ -240,7 +240,7 @@ J Cao*, <strong>R Gao</strong>*, E Keyvanshokooh*. <br/>
 <li>
 J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
 <a href="https://arxiv.org/abs/2312.06646">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
-<span class="venue-box">Preliminary version at GenAI and Law at ICML 2024</span>
+<span class="venue-box">Preliminary version at GenAI and Law @ ICML 2024</span>
 </li>
 </ol>
 </div>
@@ -285,7 +285,7 @@ Z Chen*, <strong>R Gao</strong>*, Y Liang*. <br/>
 <li>
 J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
 <a href="https://arxiv.org/abs/2312.06646">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
-<span class="venue-box">Preliminary version at GenAI and Law at ICML 2024</span>
+<span class="venue-box">Preliminary version at GenAI and Law @ ICML 2024</span>
 </li>
 </ol>
 <h4>Patents</h4>

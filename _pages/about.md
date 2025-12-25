@@ -40,7 +40,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 ## Recent News  
 * Our paper [AI Reasoning and Unique Human Knowledge](https://arxiv.org/abs/2511.04050) is accepted at [WISE, 2025](https://sites.google.com/view/wise2025)!
 * Received [INFORMS ISS Nunamaker-Chen Dissertation Runner-Up Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Nunamaker-Chen-Dissertation-Award) 🏆!
-* Our paper [Secure Data Marketplace](https://arxiv.org/abs/2512.06033) received Best Paper Award 🏆 at [INFORMS Workshop on Data Science 2025](https://sites.google.com/view/data-science-2025/) and Best Student Paper Award 🏆 [WITS, 2025](https://witsconf.org/wits2025-venue/) (Preliminary version is also accepted at CIST/LockLLM @ NeurIPS 25)!
+* Our paper [Secure Data Marketplace](https://arxiv.org/abs/2512.06033) received Best Paper Award 🏆 at [INFORMS Workshop on Data Science 2025](https://sites.google.com/view/data-science-2025/) and Best Student Paper Award 🏆 at [WITS, 2025](https://witsconf.org/wits2025-venue/) (Preliminary version is also accepted at CIST/LockLLM @ NeurIPS 25)!
 * Received New Faculty Research Grant 🏆 (2 out of 11)! 
 * Our paper [HR-Bandit](https://arxiv.org/abs/2410.14640) is accepted at [AISTATS 2025](https://aistats.org/aistats2025/)!
 * Our paper [SEL-BALD](https://openreview.net/forum?id=tDMTwto6jv&noteId=NUW1w5VmUb) was honored as the Best Paper Runner-Up 🏆 (2nd out of 243 accepted papers) at [WITS 2024](https://witsconf.org/)!

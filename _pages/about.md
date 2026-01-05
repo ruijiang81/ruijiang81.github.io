@@ -38,6 +38,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News  
+* New preprints [Computational Copyright](https://arxiv.org/abs/2312.06646) and [Offline Consumer Surplus Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5999814)! 
 * Our paper [AI Reasoning and Unique Human Knowledge](https://arxiv.org/abs/2511.04050) is accepted at [WISE, 2025](https://sites.google.com/view/wise2025)!
 * Received [INFORMS ISS Nunamaker-Chen Dissertation Runner-Up Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Nunamaker-Chen-Dissertation-Award) 🏆!
 * Our paper [Secure Data Marketplace](https://arxiv.org/abs/2512.06033) received Best Paper Award 🏆 at [INFORMS Workshop on Data Science 2025](https://sites.google.com/view/data-science-2025/) and Best Student Paper Award 🏆 at [WITS, 2025](https://witsconf.org/wits2025-venue/) (Preliminary version is also accepted at CIST/LockLLM @ NeurIPS 25)!
@@ -161,6 +162,11 @@ J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahu
 <summary>Causal ML & Uncertainty Quantification</summary>
 <div class="pub-content">
 <ol>
+<li>
+Z Bian*, M Biggs*, <strong>R Gao</strong>*, Z Qi*. <br/>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5999814">Beyond Demand Estimation: Consumer Surplus Evaluation via Cumulative Propensity Weights</a>
+<span class="venue-box">Preprint</span>
+</li>
 <li>
 <strong>R Gao</strong>, M Yin. <br/>
 <a href="https://arxiv.org/abs/2310.08824">Confounding-Robust Deferral Policy Learning</a>
@@ -286,6 +292,11 @@ Z Chen*, <strong>R Gao</strong>*, Y Liang*. <br/>
 J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
 <a href="https://arxiv.org/abs/2312.06646">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
 <span class="venue-box">Preliminary version at GenAI and Law @ ICML 2024</span>
+</li>
+<li>
+Z Bian*, M Biggs*, <strong>R Gao</strong>*, Z Qi*. <br/>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5999814">Beyond Demand Estimation: Consumer Surplus Evaluation via Cumulative Propensity Weights</a>
+<span class="venue-box">Preprint</span>
 </li>
 </ol>
 <h4>Patents</h4>

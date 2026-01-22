@@ -327,7 +327,7 @@ M Yin, <strong>R Gao</strong>, W Lin, S Shugan. <br/>
 </div>
 </details>
 
-## Awards and Fellowships 
+## Awards 
 * Best Student Paper Award at [WITS 2025](WITSconf.org/wits2025-venue/)
 * Best Paper Award at [INFORMS Workshop on Data Science 2025](https://sites.google.com/view/data-science-2025/).
 * [INFORMS ISS Nunamaker-Chen Dissertation Runner-Up Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Nunamaker-Chen-Dissertation-Award).
@@ -335,10 +335,6 @@ M Yin, <strong>R Gao</strong>, W Lin, S Shugan. <br/>
 * Best Paper Runner-Up Award at [WITS 2024](https://witsconf.org/) (2nd out of 243 accepted papers). 
 * Best Student Paper Award at [CIST 2022](https://sites.google.com/view/cist2022/) (1 out of ~200 accepted papers).
 * PhD Incubator Special Recognition Award at [INFORMS Advances in Decision Analysis Conference](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2022-Advances-in-Decision-Analysis-Conference).
-* INFORMS Data Science Workshop Scholarship 2022, 2023. 
-* UT Austin Continuing Fellowship 2022-2023 (competitive fellowship, one nomination per department).
-* UT Austin Graduate School (OGS) Professional Development Award, Good Systems Student Conference Grant.
-* UT Austin Graduate School (OGS) Provost Fellowship.
 
 ## Professional Service
 Program Committee Member and Reviewer for 

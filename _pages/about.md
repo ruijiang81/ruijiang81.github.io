@@ -38,7 +38,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News  
-* New preprints [Computational Copyright](https://arxiv.org/abs/2312.06646) and [Offline Consumer Surplus Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5999814)! 
+* New preprints [Computational Copyright](https://arxiv.org/abs/2312.06646), [Offline Consumer Surplus Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5999814), and [LLM-Informed Bandit](http://arxiv.org/abs/2601.11905)! 
 * Our paper [AI Reasoning and Unique Human Knowledge](https://arxiv.org/abs/2511.04050) is accepted at [WISE, 2025](https://sites.google.com/view/wise2025)!
 * Received [INFORMS ISS Nunamaker-Chen Dissertation Runner-Up Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Nunamaker-Chen-Dissertation-Award) 🏆!
 * Our paper [Secure Data Marketplace](https://arxiv.org/abs/2512.06033) received Best Paper Award 🏆 at [INFORMS Workshop on Data Science 2025](https://sites.google.com/view/data-science-2025/) and Best Student Paper Award 🏆 at [WITS, 2025](https://witsconf.org/wits2025-venue/) (Preliminary version is also accepted at CIST/LockLLM @ NeurIPS 25)!
@@ -145,14 +145,18 @@ L Han, MR Min, A Stathopoulos, Y Tian, <strong>R Gao</strong>, A Kadav, D Metaxa
 <span class="venue-box">Marketing Science - Reject and Resubmit</span><span class="award-highlight">Marketing Science Institute Grant</span>
 </li>
 <li>
-Z Chen*, <strong>R Gao</strong>*, Y Liang*. <br/>
+[Under Review] Z Chen*, <strong>R Gao</strong>*, Y Liang*. <br/>
 <a href="https://ruijiang81.github.io/publications/gsurvey">Revealing AI Reasoning Increases Trust but Crowds Out Unique Human Knowledge</a>
 <span class="venue-box">Preliminary version at WISE 2025</span>
 </li>
 <li>
-J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
+[Under Review] J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
 <a href="https://arxiv.org/abs/2312.06646">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
 <span class="venue-box">Preliminary version at GenAI and Law @ ICML 2024</span>
+</li>
+<li>
+[Under Review] J Cao*, <strong>R Gao</strong>*, E Keyvanshokooh, J Ma<br/>
+<a href="https://arxiv.org/abs/2601.11905">LIBRA: Language Model Informed Bandit Recourse Algorithm for Personalized Treatment Planning</a>
 </li>
 </ol>
 </div>
@@ -205,6 +209,10 @@ L Han, Y Zou, <strong>R Gao</strong>, L Wang, D Metaxas. <br/>
 <summary>Interpretability & Recourse</summary>
 <div class="pub-content">
 <ol>
+<li>
+[Under Review] J Cao*, <strong>R Gao</strong>*, E Keyvanshokooh, J Ma<br/>
+<a href="https://arxiv.org/abs/2601.11905">LIBRA: Language Model Informed Bandit Recourse Algorithm for Personalized Treatment Planning</a>
+</li>
 <li>
 J Cao*, <strong>R Gao</strong>*, E Keyvanshokooh*. <br/>
 <a href="https://arxiv.org/abs/2410.14640">HR-Bandit: Human-AI Collaborated Linear Recourse Bandit</a>
@@ -284,19 +292,23 @@ M Yin, <strong>R Gao</strong>, W Lin, S Shugan. <br/>
 <span class="venue-box">Preliminary version at RealML @ NeurIPS 2023</span>
 </li>
 <li>
-Z Chen*, <strong>R Gao</strong>*, Y Liang*. <br/>
+[Under Review] Z Chen*, <strong>R Gao</strong>*, Y Liang*. <br/>
 <a href="https://ruijiang81.github.io/publications/gsurvey">Revealing AI Reasoning Increases Trust but Crowds Out Unique Human Knowledge</a>
 <span class="venue-box">Preliminary version at WISE 2025</span>
 </li>
 <li>
-J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
+[Under Review] J Deng, X Jiang, S Zhang, S Zhang, H Lakkaraju, <strong>R Gao</strong>, C Donahue, J Ma<br/>
 <a href="https://arxiv.org/abs/2312.06646">Computational Copyright: Towards A Royalty Model for Music Generative AI</a>
 <span class="venue-box">Preliminary version at GenAI and Law @ ICML 2024</span>
 </li>
 <li>
-Z Bian*, M Biggs*, <strong>R Gao</strong>*, Z Qi*. <br/>
+[Under Review] Z Bian*, M Biggs*, <strong>R Gao</strong>*, Z Qi*. <br/>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5999814">Beyond Demand Estimation: Consumer Surplus Evaluation via Cumulative Propensity Weights</a>
 <span class="venue-box">Preprint</span>
+</li>
+<li>
+[Under Review] J Cao*, <strong>R Gao</strong>*, E Keyvanshokooh, J Ma<br/>
+<a href="https://arxiv.org/abs/2601.11905">LIBRA: Language Model Informed Bandit Recourse Algorithm for Personalized Treatment Planning</a>
 </li>
 </ol>
 <h4>Patents</h4>

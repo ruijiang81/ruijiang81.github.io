@@ -38,6 +38,7 @@ My research focuses on advancing <span class="burntorange-text">human-centered m
 </div>
 
 ## Recent News  
+* New preprint [Non-Standard Errors in AI Agents](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6427518)!
 * New preprints [Computational Copyright](https://arxiv.org/abs/2312.06646), [Offline Consumer Surplus Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5999814), and [LLM-Informed Bandit](http://arxiv.org/abs/2601.11905)! 
 * Our paper [AI Reasoning and Unique Human Knowledge](https://arxiv.org/abs/2511.04050) is accepted at [WISE, 2025](https://sites.google.com/view/wise2025)!
 * Received [INFORMS ISS Nunamaker-Chen Dissertation Runner-Up Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Nunamaker-Chen-Dissertation-Award) 🏆!

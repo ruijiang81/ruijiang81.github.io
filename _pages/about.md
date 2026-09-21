@@ -17,9 +17,9 @@ I received my master's degree in Statistics from the [University of Michigan](ht
 <div class="grey-background">
 I am interested in building AI methods that let firms make, evaluate, and govern high-stakes decisions when AI systems act alongside people. My work include:
 <ol>
-<li><b>Human-AI collaboration.</b> How should AI and humans make decisions together effectively?</li>
-<li><b>AI agents and digital twins.</b> Simulating decision makers with AI agents, measuring when those simulations can be trusted, and evaluating their implications.</li>
-<li><b>Data evaluation, privacy, and reliable decision making.</b> How data can be valued, priced, and shared, and how can we make robust, reliable, and privacy-aware decisions.</li>
+<li><b class="burntorange-text">Human-AI collaboration.</b> How should AI and humans make decisions together effectively?</li>
+<li><b class="burntorange-text">AI agents and digital twins.</b> Simulating decision makers with AI agents, measuring when those simulations can be trusted, and evaluating their implications.</li>
+<li><b class="burntorange-text">Data evaluation, privacy, and reliable decision making.</b> How data can be valued, priced, and shared, and how can we make robust, reliable, and privacy-aware decisions.</li>
 </ol>
 </div>
 

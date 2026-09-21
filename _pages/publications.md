@@ -63,9 +63,7 @@ author_profile: true
 
 * Z Qing, **R Gao**, M Yin. Evaluating Agents When Experts Know More: A Doubly-Valid and Doubly-Sharp Approach. (Accepted at INFORMS Workshop on Data Science 2026.)
 
-* M Yin, **R Gao**, W Lin, S Shugan. Nonparametric Discrete Choice Experiments with Machine Learning Guided Adaptive Design. (Preliminary version at [RealML @ NeurIPS 2023](https://realworldml.github.io/neurips2023/).) [[Abstract]](/publications/gsurvey)
 
-* **R Gao**, M Saar-Tsechansky. Active Incentive Learning. (Preliminary version at CIST 2022.) [[Abstract]](/publications/ail)
 
 # Patents
 

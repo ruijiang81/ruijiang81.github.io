@@ -21,12 +21,9 @@ My goal is that students leave able to evaluate a technology claim and to ask a 
 
 # Student Supervision
 
-I supervise undergraduate and doctoral independent study at UT Dallas and serve on doctoral supervisory committees in the Jindal School of Management. I also work closely with PhD students on research, at UT Dallas and jointly with faculty at other institutions. Recent student-led research includes:
+I work with students on research. Selected student achievements:
 
-* Y Yang (UT Dallas, with Z Zheng). Sell Data to AI Algorithms Without Revealing It. Best Paper at INFORMS Workshop on Data Science 2025; Best Student Paper at WITS 2025.
-* Y Yang (UT Dallas, with Z Zheng). Insight without Sight: LLM Inference with Private Data. INFORMS Workshop on Data Science 2026.
-* MJ Lee (Texas A&M, with E Keyvanshokooh). Sequential Feature Acquisition for Treatment Assignment under Partial Observability. INFORMS Workshop on Data Science 2026.
-* Z Qing (University of Florida, with M Yin). Evaluating Agents When Experts Know More. INFORMS Workshop on Data Science 2026.
+* Y Yang (UT Dallas, co-advise with Z Zheng). Sell Data to AI Algorithms Without Revealing It. Best Paper at INFORMS Workshop on Data Science 2025; Best Student Paper at WITS 2025.
 
 Students interested in working with me should see the [Prospective Students](/#research) note on the home page.
 

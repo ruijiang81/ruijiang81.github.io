@@ -5,48 +5,33 @@ permalink: /teaching/
 author_profile: true
 ---
 
+# UT Dallas
 
-Instructor for MIS 301 - INTRODUCTION TO INFORMATION TECHNOLOGY MANAGEMENT - Spring 2022. 
+## ITSS 3300: Information Technology for Business
 
-# Course Overview 
-Information technology (IT) has transformed all aspects of 21st century business and everyday 
-life. New IT investments continue to be staggering. Worldwide, over $2.5 trillion is invested in 
-IT. In the U.S., over 50% of capital expenditures are related to IT. IT has triggered new forms of 
-organizations and business process innovation and impacted organizational structure, culture, 
-politics, decision making, and society. IT is also transforming how physical products are 
-designed, how services are bundled with products, and how individuals interact with businesses 
-and with other individuals. A silent transformation of physical items is occurring as more and 
-more products use embedded IT to improve customer experience and product performance. The 
-pervasiveness of IT is expanding global trade and changing how and where work is performed.   
-  
-It is vital that future managers—in every area of business—have a working knowledge of 
-modern IT, practical experience in its use, and management perspectives on how IT is used in 
-organizations. 
+Instructor, Naveen Jindal School of Management. ITSS 3300 is a required course in the JSOM undergraduate core and, for many students, their main exposure to information technology before entering the workforce.
 
-MIS 301 will focus on three broad issues:  
- 
-(a) Using IT for strategic competitive advantage  
-(b) IT core skills and management  
-(c) IT at the intersection of functional business areas 
- 
-Topics covered include the IT ecosystem, using information systems (IS) for competitive 
-advantage, databases, data communications, mobile telecommunications, business process 
-management, and business intelligence. While students are introduced to the practical business 
-use of hands-on technology (particularly Excel), the real value that McCombs majors gain from 
-MIS 301 comes from understanding the strategic possibilities inherent at the intersection of 
-business and technology.   
+* Fall 2026 (Sections 002, 006, 009)
+* Fall 2025 (Sections 002, 006, 009)
+* Spring 2025 (Sections 505, 508)
 
-# REQUIRED COURSE MATERIALS   
-  
-## Gallaugher, John, Information Systems: A Manager's Guide to Harnessing Technology, v. 8.0, Flatworld Knowledge, Inc., eISBN 978-1-4533-9405-2, available through the following website: 
+The course anchors every technical concept in a decision a manager actually faces. Cloud architecture is introduced as a capacity and cost trade-off, databases as the question of what a firm can and cannot answer about its own customers, and machine learning as a hiring or lending decision in which the model's errors have asymmetric consequences. The course also covers generative AI and large language models: what they do, what they cannot do, and where the business risks sit, including data leakage, provenance, and the legal landscape forming around training data.
 
-[https://students.flatworldknowledge.com/course/2599648](https://students.flatworldknowledge.com/course/2599648)
- 
-Four options to purchase the required book:  
-1. Online Access Only:  $39.95  
-2. Online Access + eBook Download:  $59.95  
-3. Online Access + Color Printed Textbook:  $64.95  
-4. Online Access + eBook Download + Color Printed Textbook:  $84.95 
+My goal is that students leave able to evaluate a technology claim and to ask a technical colleague the right question, rather than merely recite a definition.
 
-[Syllabus [PDF]](https://github.com/ruijiang81/ruijiang81.github.io/raw/master/files/teaching/syllabus_MIS301_ruijiang_SP22.pdf)
+# Student Supervision
 
+I supervise undergraduate and doctoral independent study at UT Dallas and serve on doctoral supervisory committees in the Jindal School of Management. I also work closely with PhD students on research, at UT Dallas and jointly with faculty at other institutions. Recent student-led research includes:
+
+* Y Yang (UT Dallas, with Z Zheng). Sell Data to AI Algorithms Without Revealing It. Best Paper at INFORMS Workshop on Data Science 2025; Best Student Paper at WITS 2025.
+* Y Yang (UT Dallas, with Z Zheng). Insight without Sight: LLM Inference with Private Data. INFORMS Workshop on Data Science 2026.
+* MJ Lee (Texas A&M, with E Keyvanshokooh). Sequential Feature Acquisition for Treatment Assignment under Partial Observability. INFORMS Workshop on Data Science 2026.
+* Z Qing (University of Florida, with M Yin). Evaluating Agents When Experts Know More. INFORMS Workshop on Data Science 2026.
+
+Students interested in working with me should see the [Prospective Students](/#research) note on the home page.
+
+# Previous Teaching
+
+## MIS 301: Introduction to Information Technology Management
+
+Instructor, McCombs School of Business, UT Austin, Spring 2022. [Syllabus [PDF]](/files/teaching/syllabus_MIS301_ruijiang_SP22.pdf)

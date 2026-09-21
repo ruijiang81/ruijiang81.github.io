@@ -4,7 +4,12 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[CV [PDF]](https://github.com/ruijiang81/ruijiang81.github.io/raw/master/files/cv/CV_ruijiang-4.pdf)
+[CV [PDF]](/files/cv/CV_Ruijiang_Gao.pdf) (updated September 2026)
 
 # Contact
+
 Email: ruijiang.gao [at] utdallas.edu
+
+Naveen Jindal School of Management
+The University of Texas at Dallas
+800 West Campbell Road, Richardson, TX 75080

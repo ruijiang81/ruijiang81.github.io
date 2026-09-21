@@ -15,15 +15,13 @@ Instructor, Naveen Jindal School of Management. ITSS 3300 is a required course i
 * Fall 2025 (Sections 002, 006, 009)
 * Spring 2025 (Sections 505, 508)
 
-The course anchors every technical concept in a decision a manager actually faces. Cloud architecture is introduced as a capacity and cost trade-off, databases as the question of what a firm can and cannot answer about its own customers, and machine learning as a hiring or lending decision in which the model's errors have asymmetric consequences. The course also covers generative AI and large language models: what they do, what they cannot do, and where the business risks sit, including data leakage, provenance, and the legal landscape forming around training data.
-
-My goal is that students leave able to evaluate a technology claim and to ask a technical colleague the right question, rather than merely recite a definition.
+Course Description: Examines key business processes in organizations and how information systems support the execution and management of these processes.  The course focuses on using information technology and information systems to support decision-making, thus blending technical and managerial topics. Students will be exposed to principles of information technology and information systems and work directly with a variety of information systems tools and techniques.  
 
 # Student Supervision
 
 I work with students on research. Selected student achievements:
 
-* Y Yang (UT Dallas, co-advise with Z Zheng). Sell Data to AI Algorithms Without Revealing It. Best Paper at INFORMS Workshop on Data Science 2025; Best Student Paper at WITS 2025.
+* Y Yang (UT Dallas, co-advised with Z Zheng). Sell Data to AI Algorithms Without Revealing It. Best Paper at INFORMS Workshop on Data Science 2025; Best Student Paper at WITS 2025.
 
 Students interested in working with me should see the [Prospective Students](/#research) note on the home page.
 

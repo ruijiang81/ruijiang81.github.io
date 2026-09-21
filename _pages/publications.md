@@ -53,7 +53,7 @@ author_profile: true
 
 * Z Chen\*, **R Gao**\*, Y Liang\*. [Revealing AI Reasoning Increases Trust but Crowds Out Unique Human Knowledge](https://arxiv.org/abs/2511.04050). (Preliminary version presented at WISE 2025.)
 
-* **R Gao**, SC Xiao. [Nonstandard Errors in AI Agents](https://arxiv.org/abs/2603.16744). (Presented at TSWIM 2026 and the Toronto Data Workshop 2026.)
+* **R Gao**, SC Xiao. [Nonstandard Errors in AI Agents](https://arxiv.org/abs/2603.16744). (Presented at TSWIM 2026.)
 
 * **R Gao**, H Pang. Ninety-Eight Percent Talk: Digital Twins of the FOMC and Monetary Policy Surprises. (Preliminary version presented at SCECR 2026.)
 
